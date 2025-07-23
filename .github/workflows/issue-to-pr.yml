@@ -6,7 +6,6 @@ on:
 
 jobs:
   process-issue:
-    if: contains(github.event.issue.body, 'url:')
     runs-on: ubuntu-latest
 
     permissions:
@@ -17,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # important for PR creation to see full history
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -27,24 +28,24 @@ jobs:
         run: pip install requests beautifulsoup4 python-slugify
 
       - name: Run script to update CSV and generate files
-        run: |
-          python .github/scripts/process_issue.py "${{ github.event.issue.body }}"
-      
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          branch_name="auto/add-site-issue-${{ github.event.issue.number }}"
-          git checkout -b $branch_name
-          git add ohio.csv output.json feeds.opml
-          git commit -m "Add site from issue #${{ github.event.issue.number }}"
-          git push origin $branch_name
+        run: python .github/scripts/process_issue.py "${{ github.event.issue.body }}"
 
-      - name: Open PR
+      - name: Check for modified files
+        run: |
+          git status
+          git diff --stat
+
+      - name: Stage changes
+        run: git add ohio.csv data.json output.opml
+
+      - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: main
-          branch: auto/add-site-issue-${{ github.event.issue.number }}
+          token: ${{ secrets.PAT_TOKEN }}
+          commit-message: "Add site from issue #${{ github.event.issue.number }}"
           title: "Add site from issue #${{ github.event.issue.number }}"
           body: "This pull request adds a new site based on the submitted issue."
+          branch: auto/add-site-issue-${{ github.event.issue.number }}
+          base: main
+          delete-branch: true
+

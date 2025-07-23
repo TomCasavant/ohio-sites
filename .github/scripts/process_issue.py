@@ -12,11 +12,17 @@ CSV_PATH = 'ohio.csv'
 
 def parse_issue(body):
     result = {}
+    current_key = None
+
     for line in body.splitlines():
-        match = re.match(r'(\w+):\s*(.+)', line.strip())
-        if match:
-            key, value = match.groups()
-            result[key.strip()] = value.strip()
+        line = line.strip()
+
+        if line.startswith("### "):
+            current_key = line[4:].lower().replace(" ", "_")
+        elif current_key and line:
+            result[current_key] = line
+            current_key = None  # Reset after capturing one value
+
     return result
 
 def fetch_metadata(url):
