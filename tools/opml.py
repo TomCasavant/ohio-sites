@@ -3,16 +3,15 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 def generate_opml():
-    input_file = Path('ohio.csv')
-    output_file = Path('output.opml')
+    input_file = 'ohio.csv'
+    output_file = 'output.opml'
 
     root = ET.Element('opml', version="2.0")
     head = ET.SubElement(root, 'head')
     ET.SubElement(head, 'title').text = 'Ohio Feeds'
 
     body = ET.SubElement(root, 'body')
-
-    with input_file.open(newline='', encoding='utf-8-sig') as f:
+    with open("ohio.csv", encoding="utf-8-sig") as f:
         reader = csv.DictReader(f)
         print(reader.fieldnames)
         for row in reader:
@@ -30,7 +29,7 @@ def generate_opml():
 
     tree = ET.ElementTree(root)
     tree.write(output_file, encoding='utf-8', xml_declaration=True)
-    print(f"Generated {output_file.resolve()}")
+    print(f"Generated {output_file}")
 
 if __name__ == '__main__':
     generate_opml()
