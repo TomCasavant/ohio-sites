@@ -21,6 +21,9 @@ Manually add a new site by editing the csv, then re-run `csv_to_json.py`, `dupli
 
 *or* Create a new issue, select 'Submit a new site'. Fill out the required fields and the Github action *should* create a PR for your new site automatically.
 
+### Suggestions
+When looking for RSS feeds on a site, install an add-on like [Feed Indicator for Firefox](https://addons.mozilla.org/en-US/firefox/addon/feed-indicator/) or [RSS Feed Finder for Chrome](https://chromewebstore.google.com/detail/rss-feed-finder/gneplfjjnfmbgimbgonejfoaiphdfkcp) to detect if there are hidden feeds on a page. You can also just try adding `/feed`, `/rss`, `/blog.xml`, or `/blog-feed.xml` to the end of the URL and see if there's a hidden feed there. Empty feeds (feeds that have no content, possibly because of a misconfiguration or any number of reasons) are accepted.
+
 ## Python Tools (`tools/`)
 
 - csv_to_json.py
