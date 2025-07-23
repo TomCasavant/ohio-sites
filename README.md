@@ -8,6 +8,10 @@ A (WIP) collection of central (and beyond) Ohio sites, feeds, calendars, and blo
 
 39 calendars (ical/ics)
 
+13 ActivityPub accounts
+
+8 AtProto accounts
+
 ## Python Tools (`tools/`)
 - csv_to_json.py
   - Converts the CSV into a json file (useful to run the website)

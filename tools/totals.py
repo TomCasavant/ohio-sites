@@ -16,11 +16,17 @@ def count_url_types():
                 counts['rss_or_atom'] += 1
             elif url_type in {'ical', 'ics'}:
                 counts['ical'] += 1
+            elif url_type == 'activitypub':
+                counts['ap'] += 1
+            elif url_type == 'atproto':
+                counts['at'] += 1
 
     print("# Totals")
     print(f"{counts['url']} sites")
     print(f"{counts['rss_or_atom']} feeds (rss/atom)")
     print(f"{counts['ical']} calendars (ical/ics)")
+    print(f"{counts['ap']} ActivityPub accounts")
+    print(f"{counts['at']} AtProto accounts")
 
 if __name__ == '__main__':
     count_url_types()
