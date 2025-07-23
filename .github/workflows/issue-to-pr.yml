@@ -28,6 +28,12 @@ jobs:
       - name: Run script to update CSV and generate files
         run: |
           python .github/scripts/process_issue.py "${{ github.event.issue.body }}"
+
+      - name: Check for modified files
+        run: git status
+      
+      - name: Check diff
+        run: git diff
       
       - name: Commit changes
         run: |
