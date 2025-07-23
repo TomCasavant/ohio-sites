@@ -17,7 +17,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # important for PR creation to see full history
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -43,8 +43,8 @@ jobs:
         with:
           token: ${{ secrets.PAT_TOKEN }}
           commit-message: "Add site from issue #${{ github.event.issue.number }}"
-          title: "Add site from issue #${{ github.event.issue.number }}"
-          body: "This pull request adds a new site based on the submitted issue."
+          title: "Add new site"
+          body: "This pull request adds a new site based on #${{ github.event.issue.number }}"
           branch: auto/add-site-issue-${{ github.event.issue.number }}
           base: main
           delete-branch: true
