@@ -1180,6 +1180,16 @@
     "alt_location": "Central Ohio"
   },
   {
+    "title": "Example Domain",
+    "link": "https://example.com/",
+    "description": "",
+    "url": "https://example.com/",
+    "url_type": "url",
+    "category": "Alert,Festival,Government",
+    "location": "Columbus, Ohio",
+    "alt_location": ""
+  },
+  {
     "title": "HTH Farm Market - Farm Market - Columbus, Ohio",
     "link": "https://farmersmarketcolumbus.com/",
     "description": "",
