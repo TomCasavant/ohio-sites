@@ -28,6 +28,7 @@ def generate_opml():
                 )
 
     tree = ET.ElementTree(root)
+    ET.indent(tree, space="\t", level=0)
     tree.write(output_file, encoding='utf-8', xml_declaration=True)
     print(f"Generated {output_file}")
 
