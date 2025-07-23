@@ -35,7 +35,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           branch_name="auto/add-site-issue-${{ github.event.issue.number }}"
           git checkout -b $branch_name
-          git add ohio.csv output.json feeds.opml
+          git add ohio.csv data.json output.opml
           git commit -m "Add site from issue #${{ github.event.issue.number }}"
           git push origin $branch_name
 
