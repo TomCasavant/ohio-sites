@@ -22,11 +22,15 @@ def count_url_types():
                 counts['at'] += 1
 
     print("# Totals")
-    print(f"{counts['url']} sites")
-    print(f"{counts['rss_or_atom']} feeds (rss/atom)")
-    print(f"{counts['ical']} calendars (ical/ics)")
-    print(f"{counts['ap']} ActivityPub accounts")
-    print(f"{counts['at']} AtProto accounts")
+    print(f"\n{counts['url']} sites")
+    print(f"\n{counts['rss_or_atom']} feeds (rss/atom)")
+    print(f"\n{counts['ical']} calendars (ical/ics)")
+    print(f"\n{counts['ap']} ActivityPub accounts")
+    print(f"\n{counts['at']} AtProto accounts")
+    print("\n---")
+    total = counts['url'] + counts['rss_or_atom'] + counts['ical'] + counts['ap'] + counts['at']
+    print(f"\n{total} Total")
+    
 
 if __name__ == '__main__':
     count_url_types()

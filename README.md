@@ -2,15 +2,19 @@
 A (WIP) collection of central (and beyond) Ohio sites, feeds, calendars, and blogs.
 
 # Totals
-248 sites
 
-703 feeds (rss/atom)
+247 sites
+
+704 feeds (rss/atom)
 
 39 calendars (ical/ics)
 
 13 ActivityPub accounts
 
 8 AtProto accounts
+
+---
+1011 Total
 
 ## Python Tools (`tools/`)
 - csv_to_json.py
@@ -19,7 +23,13 @@ A (WIP) collection of central (and beyond) Ohio sites, feeds, calendars, and blo
   - Checks if the CSV contains any duplicate URLs
 - opml.py
   - Generates an OPML of all atom/rss feeds from the CSV
-
+- rss_cleanup.py
+  - Fetches rss/atom feeds (w/o titles) to fill in title/description columns. Use with `--full` to rescrape all rss/atom feeds.
+- url_cleanup.py
+  - Fetches URLs (w/o titles) to fill in title/description columns. Use with `--full` to refetch all existing urls
+- totals.py
+  - Counts up number of urls, rss+atom feeds, activitypub accounts, and atproto accounts to add to README
+ 
 ## Opening `index.html`
 - This is a example website probably won't be a longterm project
 - Run the csv_to_json.py
