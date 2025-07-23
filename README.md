@@ -21,6 +21,9 @@ A (WIP) collection of central (and beyond) Ohio sites, feeds, calendars, and blo
 - Run the csv_to_json.py
 - Run `python3 -m http.server 8000` (needs to be on a server because CORS blocks the request to `data.json` otherwise)
 
+Web View:
+<img width="1857" height="601" alt="image" src="https://github.com/user-attachments/assets/4ed67880-7ac6-4b37-bec5-6087425990a7" />
+
 ### Useful Resources
 https://github.com/benlk/columbus-govdelivery-rss/
 
