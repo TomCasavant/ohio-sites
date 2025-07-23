@@ -1,0 +1,37 @@
+name: Submit a new site
+description: Add a new website to the Ohio directory
+body:
+  - type: input
+    id: url
+    attributes:
+      label: URL
+    validations:
+      required: true
+  - type: input
+    id: url_type
+    attributes:
+      label: URL Type
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Category
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Location
+  - type: input
+    id: alt_location
+    attributes:
+      label: Alternate Location
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link label
+    validations:
+      required: true
