@@ -11,12 +11,12 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: dropdown
     id: url_type
     attributes:
       label: URL Type
-      description: url, rss, atom, activitypub, or atproto
-      placeholder: "url"
+      description: url, rss, atom, activitypub, atproto (bluesky), or other
+      options: [url, rss, atom, activitypub, atproto, or other]
     validations:
       required: true
 
