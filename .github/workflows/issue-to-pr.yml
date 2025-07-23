@@ -6,7 +6,7 @@ on:
 
 jobs:
   process-issue:
-    if: contains(github.event.issue.body, 'url:')
+    if: contains(join(github.event.issue.labels.*.name, ','), 'site-submission')
     runs-on: ubuntu-latest
 
     permissions:
