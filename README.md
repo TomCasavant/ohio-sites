@@ -1,6 +1,11 @@
 # Ohio Sites
 A (WIP) collection of central (and beyond) Ohio sites, feeds, calendars, and blogs.
 
+# Totals
+248 sites
+703 feeds (rss/atom)
+39 calendars (ical/ics)
+
 ## Python Tools (`tools/`)
 - csv_to_json.py
 -- Converts the CSV into a json file (useful to run the website)
