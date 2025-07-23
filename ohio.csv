@@ -10,8 +10,8 @@ AMA Motorcycle Hall of Fame & Museum - American Motorcyclist Association,https:/
 ,https://asian-festival.org/,,https://asian-festival.org/feed/,rss,"Events,Festival",,Central Ohio
 ,https://flipboard.com/@axiosnews/axios-local-columbus-or8j7v5kz,,axios-local-columbus-AxiosNews@flipboard.com,activitypub,"News,Social",,Central Ohio
 Not Acceptable!,https://badslava.com/trivia-nights.php?city=Columbus&state=OH,"Trivia Nights in Columbus, Ohio",https://badslava.com/trivia-nights.php?city=Columbus&state=OH,url,Other,"Columbus, OH, United States of America",Central Ohio
-Spanish Restaurant in Historic German Village,https://barcelonacolumbus.com/,,https://barcelonacolumbus.com/,url,Business,,Central Ohio
-Barcelona,https://barcelonacolumbus.com/,,https://barcelonacolumbus.com/feed/,rss,Business,,Central Ohio
+Spanish Restaurant in Historic German Village,https://barcelonacolumbus.com/,,https://barcelonacolumbus.com/,url,"Business,Food",,Central Ohio
+Barcelona,https://barcelonacolumbus.com/,,https://barcelonacolumbus.com/feed/,rss,"Business,Food",,Central Ohio
 "City of Bexley, Ohio | Official Page",https://bexley.org/,,https://bexley.org/,url,Government,"Bexley, OH, United States of America",Central Ohio
 City of Bexley,https://bexley.org/,,https://bexley.org/feed/,rss,Government,"Bexley, OH, United States of America",Central Ohio
 "Breakfast with Nick - Food, Drink, Travel, and Fun in Central Ohio",https://breakfastwithnick.com/,"I'm a food and travel writer based in central Ohio. I've been writing Breakfast With Nick since 2007, beginning first as a lowly breakfast blog and now expanding to explore food, drink, travel, family fun, the arts, and much more.",https://breakfastwithnick.com/,url,"Blog,Food",,Central Ohio
@@ -69,8 +69,8 @@ Columbus Coffee Festival Enjoy coffee samples from roasters and shops from aroun
 ,https://columbusfieryfoods.com/,,https://columbuscoffeefest.com/feed/,rss,"Events,Festival",,Central Ohio
 "Columbus Comedy Festival An annual celebration of comedy in Columbus, Ohio.",https://columbuscomedyfest.com/,,https://columbuscomedyfest.com/,url,"Events,Festival",,Central Ohio
 ,https://columbuscomedyfest.com/,,https://columbuscomedyfest.com/feed/,rss,"Events,Festival",,Central Ohio
-Columbus Commons - Columbus Commons,https://columbuscommons.org/,,https://columbuscommons.org/,url,Attraction,,Central Ohio
-,https://columbuscommons.org/,,https://columbuscommons.org/feed/,rss,,,Central Ohio
+Columbus Commons - Columbus Commons,https://columbuscommons.org/,,https://columbuscommons.org/,url,"Attraction,Park",,Central Ohio
+,https://columbuscommons.org/,,https://columbuscommons.org/feed/,rss,"Attraction,Park",,Central Ohio
 Home - Greater Columbus Convention Center,https://columbusconventions.com/,,https://columbusconventions.com/,url,,,Central Ohio
 Greater Columbus Convention Center,https://columbusconventions.com/,A Perfect Destination: FROM THE INSIDE OUT,https://columbusconventions.com/rss,rss,,,Central Ohio
 ,https://flipboard.com/@ColumbusDispatc,,ColumbusDispatc@flipboard.com,activitypub,"News,Social",,Central Ohio
@@ -82,7 +82,7 @@ The Annual Columbus Greek Festival,https://columbusgreekfestival.com/,,https://c
 The Annual Columbus Greek Festival,https://columbusgreekfestival.com/,"Columbus, Ohio on Labor Day Weekend",https://columbusgreekfestival.com/feed,rss,"Events,Festival",,Central Ohio
 ,https://c.im/@columbusnewsbot,,columbusnewsbot@c.im,activitypub,"Aggregator,Social",,Central Ohio
 Columbus Ohio Oktoberfest 2024,https://columbusoktoberfest.com/,,https://columbusoktoberfest.com/,url,"Events,Festival",,Central Ohio
-Columbus Recreation and Parks,https://columbusrecparks.com/,Rec Parks' website; content is not structured in a way that results in a functioning feed and most alerts go out via GovDelivery,https://columbusrecparks.com/feed/,rss,Government,"Columbus, OH, United States of America",Central Ohio
+Columbus Recreation and Parks,https://columbusrecparks.com/,Rec Parks' website; content is not structured in a way that results in a functioning feed and most alerts go out via GovDelivery,https://columbusrecparks.com/feed/,rss,"Government,Park","Columbus, OH, United States of America",Central Ohio
 ,https://columbusregion.com/,,https://columbusregion.com/feed/,rss,,,Central Ohio
 "Columbus Serbian Festival: Culture, Food, and Fun | Columbus Serbian Festival",https://columbusserbianfestival.com/,,https://columbusserbianfestival.com/,url,"Events,Festival",,Central Ohio
 Columbus Symphony,https://columbussymphony.com/,,https://columbussymphony.com/,url,,,Central Ohio
@@ -183,7 +183,7 @@ Little Theatre Off Broadway,https://ltob.org/,,https://ltob.org/,url,Theater,,Ce
 Little Theatre Off Broadway,https://ltob.org/,,https://ltob.org/feed/,rss,Theater,,Central Ohio
 Home | Lynd Fruit Farm,https://lyndfruitfarm.com/,,https://lyndfruitfarm.com/,url,Farm,,Central Ohio
 Lynd Fruit Farm,https://lyndfruitfarm.com/,"Apple orchard and retail sales market, located just 20 minutes east of Columbus. We offer U-pick raspberries, blackberries, & peaches in the summer, and U-pick apples in the fall.",https://lyndfruitfarm.com/feed/,rss,Farm,,Central Ohio
-"Marcellas | Welcome to Marcella's Ristorante | Columbus, Ohio",https://marcellasrestaurant.com/,"Marcella’s Restaurant is a bustling burst of Italian flavor in Columbus, Ohio- perfect for sharing a meal, or for a late night snack.",https://marcellasrestaurant.com/,url,Business,,Central Ohio
+"Marcellas | Welcome to Marcella's Ristorante | Columbus, Ohio",https://marcellasrestaurant.com/,"Marcella’s Restaurant is a bustling burst of Italian flavor in Columbus, Ohio- perfect for sharing a meal, or for a late night snack.",https://marcellasrestaurant.com/,url,"Business,Food",,Central Ohio
 Transit Columbus (@transitcolumbus@mastodon.social) - Mastodon,https://mastodon.social/@transitcolumbus,,https://mastodon.social/@transitcolumbus,url,Social,,Central Ohio
 Transit Columbus,https://mastodon.social/@transitcolumbus,Public posts from @transitcolumbus@mastodon.social,https://mastodon.social/@transitcolumbus.rss,rss,Social,,Central Ohio
 Community Archives â€“ Matter News,https://matternews.org/,"Local news, evolved.",https://matternews.org/community/feed/,rss,News,,Central Ohio
@@ -201,8 +201,8 @@ The Nest Theatre â€“ Columbus Improv Comedy and Performance,https://nestthe
 Ohio State News,https://news.osu.edu/,,https://news.osu.edu/feed/the-ohio-state-university/media_en-us/,rss,University,,Central Ohio
 Ohio State News,https://news.osu.edu/,,"https://news.osu.edu/tagfeed/en-us/tags/News,Research__News",rss,University,,Central Ohio
 "Home - North Market | Columbus, Ohio",https://northmarket.org/,"Explore North Market: Columbus’ top spot for food, shopping & events!",https://northmarket.org/,url,"Attraction,Business",,Central Ohio
-,https://northmarket.org/,,https://northmarket.org/events/feed/,rss,Business,,Central Ohio
-,https://northmarket.org/,,https://northmarket.org/feed,rss,Business,,Central Ohio
+,https://northmarket.org/,,https://northmarket.org/events/feed/,rss,"Attraction,Business",,Central Ohio
+,https://northmarket.org/,,https://northmarket.org/feed,rss,"Attraction,Business",,Central Ohio
 Home - Obetz Zucchinifest,https://obetzzucchinifest.com/,,https://obetzzucchinifest.com/,url,"Events,Festival",,Central Ohio
 Obetz Zucchinifest,https://obetzzucchinifest.com/,"September 1,2,3,4 2023",https://obetzzucchinifest.com/feed/,rss,"Events,Festival",,Central Ohio
 ,https://flipboard.com/@columbusdispatc/ohio-politics-aokaou8oz,,ohio-politics-ColumbusDispatc@flipboard.com,activitypub,"News,Social",,Central Ohio
@@ -219,8 +219,8 @@ Ohio State | Official Athletics Website,https://ohiostatebuckeyes.com/,,https://
 ,https://ohiostatebuckeyes.com/,,https://ohiostatebuckeyes.com/api/v2/Calendar/subscribe?type=ics,ical,"Events,Sports",,Central Ohio
 Ohio State Athletics,https://ohiostatebuckeyes.com/,,https://ohiostatebuckeyes.com/api/v2/Calendar/subscribe?type=rss,rss,"Events,Sports",,Central Ohio
 top scoring links : Columbus,https://reddit.com/r/columbus,"Events, get togethers, and suggestions on what to see and do in Columbus, Ohio!",https://old.reddit.com/r/columbus/top.rss?t=week,atom,Social,,Central Ohio
-"Historic German Dining in Columbus, Ohio - Mohawk",https://oldmohawktavern.com/,,https://oldmohawktavern.com/,url,Business,,Central Ohio
-Mohawk,https://oldmohawktavern.com/,,https://oldmohawktavern.com/feed/,rss,Business,,Central Ohio
+"Historic German Dining in Columbus, Ohio - Mohawk",https://oldmohawktavern.com/,,https://oldmohawktavern.com/,url,"Business,Food",,Central Ohio
+Mohawk,https://oldmohawktavern.com/,,https://oldmohawktavern.com/feed/,rss,"Business,Food",,Central Ohio
 "GIS Open Data  Columbus, OH",https://columbus.maps.arcgis.com/home/index.html,GIS Open Data and Map Portal Disclaimer,https://opendata.columbus.gov/api/feed/rss/2.0,rss,"Data,GIS,Government",,Central Ohio
 Home | Orton Geological Museum,https://ortonmuseum.osu.edu/,,https://ortonmuseum.osu.edu/,url,"Attraction,Museum",,Central Ohio
 Westerville Parks & Recreation,https://parks.westerville.org/,,https://parks.westerville.org/,url,Park,,Central Ohio
@@ -595,7 +595,7 @@ NEI - CRC Commissioners - Recent Updates,https://www.columbus.gov/,NEI - CRC Com
 Unofficial COTA Alerts Feed,https://cota.com,Unofficial feed parsing COTA.com's alerts feed,https://raw.githubusercontent.com/benlk/cota-reroute-pdf-rss/main/rss.xml,rss,"Alerts,Transportation","Columbus, OH, United States of America",Central Ohio
 "Columbus, OH",https://reddit.com/r/columbus,"Events, get togethers, and suggestions on what to see and do in Columbus, Ohio!",https://reddit.com/r/columbus.rss,atom,Social,"Columbus, OH, United States of America",Central Ohio
 "Red, White & BOOM! | The Midwest's Largest Fireworks Festival",https://redwhiteandboom.org/,,https://redwhiteandboom.org/,url,Events,,Central Ohio
-A Columbus Staple for Over 40 Years - Refectory Restaurant,https://refectory.com/,"Exceptional contemporary American and classic French cuisine is complemented by Refectory Restaurants world-class wine cellar, serving for over 40 years!",https://refectory.com/,url,Business,,Central Ohio
+A Columbus Staple for Over 40 Years - Refectory Restaurant,https://refectory.com/,"Exceptional contemporary American and classic French cuisine is complemented by Refectory Restaurants world-class wine cellar, serving for over 40 years!",https://refectory.com/,url,"Business,Food",,Central Ohio
 ,https://refectory.com/,,https://refectory.com/feed/,rss,Business,,Central Ohio
 Sharp Farms - Homepage,http://sharpfarmspumpkins.com/,,http://sharpfarmspumpkins.com/,url,Farm,,Central Ohio
 "Home Page - Short North, Columbus Ohio",https://shortnorth.org/,,https://shortnorth.org/,url,Government,"Short North, Columbus, OH, United States of America",Central Ohio
@@ -623,7 +623,7 @@ One Linden,https://us16.campaign-archive.com/home/?u=30613ae7ca0d57eb558719248&i
 Capital Line Updates from Downtown Columbus Inc.,https://downtowncolumbus.com/projects-initiatives/capitalline/,Program updates,https://us20.campaign-archive.com/feed?u=23d046be52c23a359a09fb6be&id=6047a8f954,rss,"Government,Social","Columbus, OH, United States of America",Central Ohio
 North Linden Area Commission zoning newsletter,https://cbusareacommissions.org/north-linden/,Itâ€™s their MailChimp archive,https://us21.campaign-archive.com/feed?u=330bc1a667408c7b6f03e46bb&id=b4deb59789,rss,"Government,Social","Columbus, OH, United States of America",Central Ohio
 Transit Columbus newsletter,https://transitcolumbus.org,It's their MailChimp archive,https://us5.campaign-archive.com/feed?u=a19338b5350be844f1b99621c&id=2786ffd7d6,rss,"Government,Social","Columbus, OH, United States of America",Central Ohio
-veritas,https://veritasrestaurant.com/,,https://veritasrestaurant.com/,url,Business,,Central Ohio
+veritas,https://veritasrestaurant.com/,,https://veritasrestaurant.com/,url,"Business,Food",,Central Ohio
 Visit Fairfield County | Central Ohio Travel & Tourism Info,https://visitfairfieldcounty.org/,,https://visitfairfieldcounty.org/,url,Tourism,,Central Ohio
 Visit Fairfield County,https://visitfairfieldcounty.org/,,https://visitfairfieldcounty.org/feed/,rss,Tourism,,Central Ohio
 Home - Visit Grove City,https://visitgrovecity.com/,,https://visitgrovecity.com/,url,Tourism,,Central Ohio
@@ -638,19 +638,19 @@ What Should We Do Today Columbus?,https://whatshouldwedotodaycolumbus.com/,"Idea
 WinterFest Columbus,https://winterfestcolumbus.com/,"WinterFest Columbus | Dec. 7, 2024",https://winterfestcolumbus.com/feed,rss,"Events,Festival",,Central Ohio
 Your Local Farm Produce Market Ohio & WV | Witten Farm Market,https://wittenfarm.com/,,https://wittenfarm.com/,url,Farm,,Central Ohio
 Witten Farm Market,https://wittenfarm.com/,Your Local Farm Produce Market Ohio & WV,https://wittenfarm.com/feed/,rss,Farm,,Central Ohio
-,https://woodburycbus.com/,,https://woodburycbus.com/,url,Business,,Central Ohio
-The Woodbury,https://woodburycbus.com/,Try Something New,https://woodburycbus.com/feed/,rss,Business,,Central Ohio
+,https://woodburycbus.com/,,https://woodburycbus.com/,url,"Business,Food",,Central Ohio
+The Woodbury,https://woodburycbus.com/,Try Something New,https://woodburycbus.com/feed/,rss,"Business,Food",,Central Ohio
 Worthington Arts Festival,https://worthingtonartsfestival.com/,,https://worthingtonartsfestival.com/,url,"Events,Festival",,Central Ohio
 Worthington Arts Festival,https://worthingtonartsfestival.com/,,https://worthingtonartsfestival.com/feed/,rss,"Events,Festival",,Central Ohio
-Worthington Historical Society â€“ Worthington Historical Society,https://worthingtonhistory.org/,,https://worthingtonhistory.org/,url,,,Central Ohio
+Worthington Historical Society â€“ Worthington Historical Society,https://worthingtonhistory.org/,,https://worthingtonhistory.org/,url,History,,Central Ohio
 The Doll Museum â€“ Worthington Historical Society,https://worthingtonhistory.org/doll-museum/,,https://worthingtonhistory.org/doll-museum/,url,"Attraction,Museum",,Central Ohio
-Worthington Historical Society,https://worthingtonhistory.org/,Worthington Historical Society,https://worthingtonhistory.org/feed/,rss,,,Central Ohio
+Worthington Historical Society,https://worthingtonhistory.org/,Worthington Historical Society,https://worthingtonhistory.org/feed/,rss,History,,Central Ohio
 WBNS RSS Feed: news,https://www.10tv.com/,WBNS Rss Feed,https://www.10tv.com/feeds/syndication/rss/news,rss,News,,Central Ohio
 Affordable Housing Alliance of Central Ohio,https://www.ahaco.org/,AHACO news and updates,https://www.ahaco.org/news?format=rss,rss,Other,"Columbus, OH, United States of America",Central Ohio
 Arnold Sports Festival,https://www.arnoldsports.com/,,https://www.arnoldsports.com/,url,"Events,Festival",,Central Ohio
 Arts in Ohio | Columbus Events,https://www.artsinohio.com/events/columbus,,https://www.artsinohio.com/events/columbus,url,Events,,Central Ohio
 Axios - Columbus,https://www.axios.com/local/columbus/,"Smart, efficient news worthy of your time, attention, and trust",https://www.axios.com/local/columbus/,url,News,,Central Ohio
-"Bar Cicchetti | Italian Restaurant in Columbus, OH",https://www.bar-cicchetti.com/,,https://www.bar-cicchetti.com/,url,Business,,Central Ohio
+"Bar Cicchetti | Italian Restaurant in Columbus, OH",https://www.bar-cicchetti.com/,,https://www.bar-cicchetti.com/,url,"Business,Food",,Central Ohio
 Home - Bexley Public Library,https://www.bexleylibrary.org/,,https://www.bexleylibrary.org/,url,"Government,Library",,Central Ohio
 ,https://www.bexleylibrary.org/,,https://www.bexleylibrary.org/feeds?data=eyJmZWVkVHlwZSI6ImljYWwiLCJmaWx0ZXJzIjp7ImxvY2F0aW9uIjpbImFsbCJdLCJhZ2VzIjpbImFsbCJdLCJ0eXBlcyI6WyJhbGwiXSwidGFncyI6W10sInRlcm0iOiIiLCJkYXlzIjoxfX0=,ical,"Government,Library",,Central Ohio
 RSS Feed for Bexley Public Library,https://www.bexleylibrary.org/,Event Feed,https://www.bexleylibrary.org/feeds?data=eyJmZWVkVHlwZSI6InJzcyIsImZpbHRlcnMiOnsibG9jYXRpb24iOlsiYWxsIl0sImFnZXMiOlsiYWxsIl0sInR5cGVzIjpbImFsbCJdLCJ0YWdzIjpbXSwidGVybSI6IiIsImRheXMiOjF9fQ==,rss,"Government,Library",,Central Ohio
@@ -696,7 +696,7 @@ Columbus Navigator - Your Daily Guide To The Best of Columbus,https://www.columb
 Columbus Navigator,https://www.columbusnavigator.com/,Your Daily Guide To The Best of Columbus,https://www.columbusnavigator.com/feed/,rss,News,,Central Ohio
 Columbus Northland Community Council,https://www.columbusncc.org/,"Community Council for Northland Area, generally north of Morse Road, south of Westerville, west of New Albany, and east of the I-71 railroad tracks.",https://www.columbusncc.org/feed/,rss,Other,"Columbus, OH, United States of America",Central Ohio
 Greater Columbus Sports Commission | Events & Facilities,https://www.columbussports.org/,,https://www.columbussports.org/,url,Sports,,Central Ohio
-Columbus Zoo and Aquarium,https://www.columbuszoo.org/,,https://www.columbuszoo.org/,url,Attraction,,Central Ohio
+Columbus Zoo and Aquarium,https://www.columbuszoo.org/,,https://www.columbuszoo.org/,url,"Attraction,Zoo",,Central Ohio
 Community Festival Est. 1972,https://www.comfest.com/,,https://www.comfest.com/,url,"Events,Festival",,Central Ohio
 Community Festival,https://www.comfest.com/,Est. 1972,https://www.comfest.com/feed/,rss,"Events,Festival",,Central Ohio
 Columbus State Community College,https://www.cscc.edu/,,https://www.cscc.edu/,url,University,,Central Ohio
@@ -721,8 +721,8 @@ Franklin County Fairgrounds,https://www.fcfair.org/,,https://www.fcfair.org/,url
 Franklin County Municipal Court Clerk,https://www.fcmcclerk.com/,,https://www.fcmcclerk.com/,url,Government,,Central Ohio
 Home | Â¡Festival Latino!,https://www.festivallatino.net/,,https://www.festivallatino.net/,url,"Events,Festival",,Central Ohio
 ¡Festival Latino!,https://www.festivallatino.net/,,https://www.festivallatino.net/feed/,rss,"Events,Festival",,Central Ohio
-Franklin Park Conservatory and Botanical GardensFranklin Park Conservatory and Botanical Gardens,https://www.fpconservatory.org/,"A horticultural and educational institution showcasing exotic plant collections, special exhibitions, and Dale Chihuly artworks.",https://www.fpconservatory.org/,url,Attraction,,Central Ohio
-,https://www.fpconservatory.org/,,https://www.fpconservatory.org/feed/,rss,Attraction,,Central Ohio
+Franklin Park Conservatory and Botanical GardensFranklin Park Conservatory and Botanical Gardens,https://www.fpconservatory.org/,"A horticultural and educational institution showcasing exotic plant collections, special exhibitions, and Dale Chihuly artworks.",https://www.fpconservatory.org/,url,"Attraction,Park",,Central Ohio
+,https://www.fpconservatory.org/,,https://www.fpconservatory.org/feed/,rss,"Attraction,Park",,Central Ohio
 "Home  - Franklin County, Ohio",https://www.franklincountyohio.gov/Home,,https://www.franklincountyohio.gov/Home,url,Government,,Central Ohio
 FRANKLINTON ARTS DISTRICT - HOME,https://www.franklintonartsdistrict.com/,,https://www.franklintonartsdistrict.com/,url,Attraction,,Central Ohio
 "Fun City Adventure Park Columbus, OH",https://www.funcitycolumbus.com/,,https://www.funcitycolumbus.com/,url,,,Central Ohio
@@ -820,7 +820,7 @@ Hyde Park Restaurants | Steakhouse in the US,https://www.hydeparkrestaurants.com
 IMAGINE PRODUCTIONS OF COLUMBUS - Imagine Productions - Columbus. Theatre. Fun.,https://www.imaginecolumbus.org/,,https://www.imaginecolumbus.org/,url,Theater,,Central Ohio
 Italian Village,https://www.italianvillage.org/,,https://www.italianvillage.org/,url,Government,"Italian Village, Columbus, OH, United States of America",Central Ohio
 Art & Culture Blog,https://www.ivocolumbusoh.org/,,https://www.ivocolumbusoh.org/,url,"Events,Festival",,Central Ohio
-Johnny Appleseed,https://www.johnnyappleseedmuseum.org/,leaving columbus?,https://www.johnnyappleseedmuseum.org/,url,"Attraction,Museum",,Central Ohio
+Johnny Appleseed,https://www.johnnyappleseedmuseum.org/,,https://www.johnnyappleseedmuseum.org/,url,"Attraction,Museum",,Ohio
 Fall Farm Fun at Leeds Farm Ohio Hayrides Pumpkins Farm Animals Zip Line and more!,https://www.leedsfarm.com/,,https://www.leedsfarm.com/,url,Farm,,Central Ohio
 ,https://www.librarybar.com/,,https://www.librarybar.com/,url,"Government,Library",,Central Ohio
 "Licking County Library System | Licking County, Ohio",https://www.lickingcountylibrary.org/,"Welcome to Licking County Library! Find information about Licking County Library, including how to get a library card, books available for check out, and other services provided by this library system in Ohio.",https://www.lickingcountylibrary.org/,url,"Government,Library",,Central Ohio
@@ -845,8 +845,8 @@ Ohgo || Real-time Ohio traffic,https://www.ohgo.com/,,https://www.ohgo.com/,url,
 Home - Ohioana Library,https://www.ohioana.org/,,https://www.ohioana.org/,url,,,Central Ohio
 ,https://www.ohioana.org/,,https://www.ohioana.org/feed/,rss,,,Central Ohio
 Ohio Expo Center,https://www.ohioexpocenter.com/,,https://www.ohioexpocenter.com/,url,Attraction,,Central Ohio
-Home - Ohio History Connection,https://www.ohiohistory.org,"Explore Ohio history through stories, photos, videos, and events. The Ohio History Connection champions all Ohio history, including the 50+ historic sites across Ohio.",https://www.ohiohistory.org,url,"Attraction,Museum",,Ohio
-,https://www.ohiohistory.org,,https://www.ohiohistory.org/rss,rss,"Attraction,Museum",,Ohio
+Home - Ohio History Connection,https://www.ohiohistory.org,"Explore Ohio history through stories, photos, videos, and events. The Ohio History Connection champions all Ohio history, including the 50+ historic sites across Ohio.",https://www.ohiohistory.org,url,"Attraction,History,Museum",,Ohio
+,https://www.ohiohistory.org,,https://www.ohiohistory.org/rss,rss,"Attraction,History,Museum",,Ohio
 "Ohio Railway Museum - Worthington, OH",https://www.ohiorailwaymuseum.org/,,https://www.ohiorailwaymuseum.org/,url,"Attraction,Museum",,Central Ohio
 "OhioRC.org | Your Resource Center for Ohio’s History, Culture, and More",https://www.ohiorc.org/,,https://www.ohiorc.org/,url,,,Central Ohio
 ,https://www.ohiorc.org/,,https://www.ohiorc.org/rss,rss,,,Central Ohio
@@ -856,7 +856,7 @@ Home | The Ohio State University,https://www.osu.edu/,,https://www.osu.edu/,url,
 OSU Emergency Alerts,,This doesn't contain historical information and may only contain items during an active event.,https://www.osu.edu/feeds/emergency-alert.rss,rss,University,"Columbus, OH, United States of America",Central Ohio
 Otherworld | Immersive Art Museum in Ohio,https://www.otherworld.com/main/home-ohio,,https://www.otherworld.com/main/home-ohio,url,"Attraction,Business",,Central Ohio
 Pelotonia Home Page,https://www.pelotonia.org/,,https://www.pelotonia.org/,url,Events,,Central Ohio
-Pistacia Vera,https://www.pistaciavera.com/,,https://www.pistaciavera.com/,url,Business,,Central Ohio
+Pistacia Vera,https://www.pistaciavera.com/,,https://www.pistaciavera.com/,url,"Business,Food",,Central Ohio
 The Official Circleville Pumpkin Show Website,https://www.pumpkinshow.com/,,https://www.pumpkinshow.com/,url,Events,,Central Ohio
 All American Quarter Horse Congress :: All American Quarter Horse Congress / AQHA / OQHA / NRHA / NCRHA / NCHA /,https://www.quarterhorsecongress.com/,,https://www.quarterhorsecongress.com/,url,Events,,Central Ohio
 Festival | Tomato Festival 2025 | Reynoldsburg,https://www.reytomatofest.com/,,https://www.reytomatofest.com/,url,"Events,Festival",,Central Ohio
@@ -874,9 +874,9 @@ The 614 for Linden,https://www.the614forlinden.org/blog,The 614 to Linden is a p
 Welcome to The Contemporary Theatre of Ohio,https://www.thecontemporaryohio.org/,,https://www.thecontemporaryohio.org/,url,Theater,,Central Ohio
 The Contemporary,https://www.thecontemporaryohio.org/,,https://www.thecontemporaryohio.org/feed/,rss,Theater,,Central Ohio
 ,https://www.thelantern.com/,,https://www.thelantern.com/feed/,rss,News,,Central Ohio
-Northstar Cafe: Order Online for Curbside Pickup,https://www.thenorthstarcafe.com/,,https://www.thenorthstarcafe.com/,url,Business,,Central Ohio
-The Walrus - The Walrus,https://www.thewalruscolumbus.com/,,https://www.thewalruscolumbus.com/,url,Business,"Columbus, OH, United States of America",Central Ohio
-Comments on: The Walrus,https://www.thewalruscolumbus.com/,,https://www.thewalruscolumbus.com/the-walrus/feed/,rss,Business,,Central Ohio
+Northstar Cafe: Order Online for Curbside Pickup,https://www.thenorthstarcafe.com/,,https://www.thenorthstarcafe.com/,url,"Business,Food","Columbus, OH, United States of America",Central Ohio
+The Walrus - The Walrus,https://www.thewalruscolumbus.com/,,https://www.thewalruscolumbus.com/,url,"Business,Food","Columbus, OH, United States of America",Central Ohio
+Comments on: The Walrus,https://www.thewalruscolumbus.com/,,https://www.thewalruscolumbus.com/the-walrus/feed/,rss,"Business,Food","Columbus, OH, United States of America",Central Ohio
 "Upper Arlington, OH | Official Website",https://www.upperarlingtonoh.gov/,,https://www.upperarlingtonoh.gov/,url,Government,"Upper Arlington, Upper Arlington, OH, United States of America",Central Ohio
 ,https://www.upperarlingtonoh.gov/,,https://www.upperarlingtonoh.gov/common/modules/iCalendar/iCalendar.aspx?catID=14&feed=calendar,ical,Government,"Upper Arlington, Upper Arlington, OH, United States of America",Central Ohio
 ,https://www.upperarlingtonoh.gov/,,https://www.upperarlingtonoh.gov/common/modules/iCalendar/iCalendar.aspx?catID=23&feed=calendar,ical,Government,"Upper Arlington, Upper Arlington, OH, United States of America",Central Ohio
@@ -1012,5 +1012,5 @@ City of Columbus videos on YouTube,https://www.youtube.com/@cityofcolumbus/video
 COTA videos on YouTube,https://www.youtube.com/@TheCOTAbus,Official YouTube channel of the Central Ohio Transit Authority,https://www.youtube.com/feeds/videos.xml?channel_id=UCLc0IZfzFc6xu5FKG7BX-0g,atom,"Government,Social","Columbus, OH, United States of America",Central Ohio
 Columbus Police Body Cameras on YouTube,https://www.youtube.com/@ColumbusPoliceBodyCamera/videos,"This channel was created to share body camera footage from the Police Department in Columbus, OH. The videos on this channel have been obtained through Public Records Requests. The channel is not run by the Columbus Division of Police or the City of Columbus.",https://www.youtube.com/feeds/videos.xml?channel_id=UCS74cWPjEY1EOuVPM4eJhCw,atom,"Government,Social","Columbus, OH, United States of America",Central Ohio
 Columbus City Schools videos on YouTube,https://www.youtube.com/@ColumbusCitySchoolsOhio/videos,Columbus City Schools' official YouTube channel; mix of content,https://www.youtube.com/feeds/videos.xml?channel_id=UCX43vRgl6nS7uYJbP4aUWog,atom,"Government,Social","Columbus, OH, United States of America",Central Ohio
-Zoombezi Bay,https://www.zoombezibay.com/,,https://www.zoombezibay.com/,url,Attraction,,Central Ohio
+Zoombezi Bay,https://www.zoombezibay.com/,,https://www.zoombezibay.com/,url,"Attraction,Park,Water Park","Columbus, OH, United States of America",Central Ohio
 Zone In Columbus,https://zone-in-columbus.hub.arcgis.com/,Contingency feed to see if they post any 'posts' to the zoning code update website,https://zone-in-columbus.hub.arcgis.com/api/feed/rss/2.0,rss,Government,"Columbus, OH, United States of America",Central Ohio

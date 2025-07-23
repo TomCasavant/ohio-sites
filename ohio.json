@@ -115,7 +115,7 @@
     "description": "",
     "url": "https://barcelonacolumbus.com/",
     "url_type": "url",
-    "category": "Business",
+    "category": "Business,Food",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -125,7 +125,7 @@
     "description": "",
     "url": "https://barcelonacolumbus.com/feed/",
     "url_type": "rss",
-    "category": "Business",
+    "category": "Business,Food",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -685,7 +685,7 @@
     "description": "",
     "url": "https://columbuscommons.org/",
     "url_type": "url",
-    "category": "Attraction",
+    "category": "Attraction,Park",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -695,7 +695,7 @@
     "description": "",
     "url": "https://columbuscommons.org/feed/",
     "url_type": "rss",
-    "category": "",
+    "category": "Attraction,Park",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -815,7 +815,7 @@
     "description": "Rec Parks' website; content is not structured in a way that results in a functioning feed and most alerts go out via GovDelivery",
     "url": "https://columbusrecparks.com/feed/",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Park",
     "location": "Columbus, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1825,7 +1825,7 @@
     "description": "Marcella\u2019s Restaurant is a bustling burst of Italian flavor in Columbus, Ohio- perfect for sharing a meal, or for a late night snack.",
     "url": "https://marcellasrestaurant.com/",
     "url_type": "url",
-    "category": "Business",
+    "category": "Business,Food",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -2005,7 +2005,7 @@
     "description": "",
     "url": "https://northmarket.org/events/feed/",
     "url_type": "rss",
-    "category": "Business",
+    "category": "Attraction,Business",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -2015,7 +2015,7 @@
     "description": "",
     "url": "https://northmarket.org/feed",
     "url_type": "rss",
-    "category": "Business",
+    "category": "Attraction,Business",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -2185,7 +2185,7 @@
     "description": "",
     "url": "https://oldmohawktavern.com/",
     "url_type": "url",
-    "category": "Business",
+    "category": "Business,Food",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -2195,7 +2195,7 @@
     "description": "",
     "url": "https://oldmohawktavern.com/feed/",
     "url_type": "rss",
-    "category": "Business",
+    "category": "Business,Food",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -5945,7 +5945,7 @@
     "description": "Exceptional contemporary American and classic French cuisine is complemented by Refectory Restaurants world-class wine cellar, serving for over 40 years!",
     "url": "https://refectory.com/",
     "url_type": "url",
-    "category": "Business",
+    "category": "Business,Food",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -6225,7 +6225,7 @@
     "description": "",
     "url": "https://veritasrestaurant.com/",
     "url_type": "url",
-    "category": "Business",
+    "category": "Business,Food",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -6375,7 +6375,7 @@
     "description": "",
     "url": "https://woodburycbus.com/",
     "url_type": "url",
-    "category": "Business",
+    "category": "Business,Food",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -6385,7 +6385,7 @@
     "description": "Try Something New",
     "url": "https://woodburycbus.com/feed/",
     "url_type": "rss",
-    "category": "Business",
+    "category": "Business,Food",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -6415,7 +6415,7 @@
     "description": "",
     "url": "https://worthingtonhistory.org/",
     "url_type": "url",
-    "category": "",
+    "category": "History",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -6435,7 +6435,7 @@
     "description": "Worthington Historical Society",
     "url": "https://worthingtonhistory.org/feed/",
     "url_type": "rss",
-    "category": "",
+    "category": "History",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -6495,7 +6495,7 @@
     "description": "",
     "url": "https://www.bar-cicchetti.com/",
     "url_type": "url",
-    "category": "Business",
+    "category": "Business,Food",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -6955,7 +6955,7 @@
     "description": "",
     "url": "https://www.columbuszoo.org/",
     "url_type": "url",
-    "category": "Attraction",
+    "category": "Attraction,Zoo",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -7205,7 +7205,7 @@
     "description": "A horticultural and educational institution showcasing exotic plant collections, special exhibitions, and Dale Chihuly artworks.",
     "url": "https://www.fpconservatory.org/",
     "url_type": "url",
-    "category": "Attraction",
+    "category": "Attraction,Park",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -7215,7 +7215,7 @@
     "description": "",
     "url": "https://www.fpconservatory.org/feed/",
     "url_type": "rss",
-    "category": "Attraction",
+    "category": "Attraction,Park",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -8192,12 +8192,12 @@
   {
     "title": "Johnny Appleseed",
     "link": "https://www.johnnyappleseedmuseum.org/",
-    "description": "leaving columbus?",
+    "description": "",
     "url": "https://www.johnnyappleseedmuseum.org/",
     "url_type": "url",
     "category": "Attraction,Museum",
     "location": "",
-    "alt_location": "Central Ohio"
+    "alt_location": "Ohio"
   },
   {
     "title": "Fall Farm Fun at Leeds Farm Ohio Hayrides Pumpkins Farm Animals Zip Line and more!",
@@ -8445,7 +8445,7 @@
     "description": "Explore Ohio history through stories, photos, videos, and events. The Ohio History Connection champions all Ohio history, including the 50+ historic sites across Ohio.",
     "url": "https://www.ohiohistory.org",
     "url_type": "url",
-    "category": "Attraction,Museum",
+    "category": "Attraction,History,Museum",
     "location": "",
     "alt_location": "Ohio"
   },
@@ -8455,7 +8455,7 @@
     "description": "",
     "url": "https://www.ohiohistory.org/rss",
     "url_type": "rss",
-    "category": "Attraction,Museum",
+    "category": "Attraction,History,Museum",
     "location": "",
     "alt_location": "Ohio"
   },
@@ -8555,7 +8555,7 @@
     "description": "",
     "url": "https://www.pistaciavera.com/",
     "url_type": "url",
-    "category": "Business",
+    "category": "Business,Food",
     "location": "",
     "alt_location": "Central Ohio"
   },
@@ -8715,8 +8715,8 @@
     "description": "",
     "url": "https://www.thenorthstarcafe.com/",
     "url_type": "url",
-    "category": "Business",
-    "location": "",
+    "category": "Business,Food",
+    "location": "Columbus, OH, United States of America",
     "alt_location": "Central Ohio"
   },
   {
@@ -8725,7 +8725,7 @@
     "description": "",
     "url": "https://www.thewalruscolumbus.com/",
     "url_type": "url",
-    "category": "Business",
+    "category": "Business,Food",
     "location": "Columbus, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -8735,8 +8735,8 @@
     "description": "",
     "url": "https://www.thewalruscolumbus.com/the-walrus/feed/",
     "url_type": "rss",
-    "category": "Business",
-    "location": "",
+    "category": "Business,Food",
+    "location": "Columbus, OH, United States of America",
     "alt_location": "Central Ohio"
   },
   {
@@ -10095,8 +10095,8 @@
     "description": "",
     "url": "https://www.zoombezibay.com/",
     "url_type": "url",
-    "category": "Attraction",
-    "location": "",
+    "category": "Attraction,Park,Water Park",
+    "location": "Columbus, OH, United States of America",
     "alt_location": "Central Ohio"
   },
   {

@@ -13,7 +13,6 @@ def generate_opml():
     body = ET.SubElement(root, 'body')
     with open("ohio.csv", encoding="utf-8-sig") as f:
         reader = csv.DictReader(f)
-        print(reader.fieldnames)
         for row in reader:
             url_type = row.get('url_type', '').lower()
             if url_type in {'rss', 'atom'}:

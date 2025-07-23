@@ -12,7 +12,6 @@ with open(input_file, newline='', encoding='utf-8-sig') as infile, \
     writer.writeheader()
 
     for row in reader:
-        print(row.get("category", ""))
         tags = row.get("category", "")
         if tags:
             sorted_tags = sorted(t.strip() for t in tags.split(",") if t.strip())
