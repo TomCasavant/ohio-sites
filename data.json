@@ -25,7 +25,7 @@
     "description": "Worthington, OH - Get the latest agendas",
     "url": "https://www.worthington.org/RSSFeed.aspx?ModID=65&CID=All-0",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Worthington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -55,7 +55,7 @@
     "description": "Worthington, OH - Get the latest alerts",
     "url": "https://www.worthington.org/RSSFeed.aspx?ModID=63&CID=Alert-Center-4",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Worthington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -65,7 +65,7 @@
     "description": "Worthington, OH - Get the latest alerts",
     "url": "https://www.worthington.org/RSSFeed.aspx?ModID=63&CID=Traffic-Alerts-3",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts,Transportation",
     "location": "Worthington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -75,7 +75,7 @@
     "description": "Worthington, OH - Get the latest alerts",
     "url": "https://www.worthington.org/RSSFeed.aspx?ModID=63&CID=Weather-Alerts-2",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Worthington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -85,7 +85,7 @@
     "description": "Worthington, OH - Get the latest events",
     "url": "https://www.worthington.org/RSSFeed.aspx?ModID=58&CID=All-calendar.xml",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Worthington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -95,7 +95,7 @@
     "description": "Worthington, OH - Get the latest events",
     "url": "https://www.worthington.org/RSSFeed.aspx?ModID=58&CID=Meetings-27",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Worthington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -105,7 +105,7 @@
     "description": "Worthington, OH - Get the latest events",
     "url": "https://www.worthington.org/RSSFeed.aspx?ModID=58&CID=City-Calendar-14",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Worthington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -115,7 +115,7 @@
     "description": "Worthington, OH - Get the latest events",
     "url": "https://www.worthington.org/RSSFeed.aspx?ModID=58&CID=Other-29",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Worthington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -125,7 +125,7 @@
     "description": "Worthington, OH - Get the latest events",
     "url": "https://www.worthington.org/RSSFeed.aspx?ModID=58&CID=Events-28",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Worthington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -135,7 +135,7 @@
     "description": "Worthington, OH - Get the latest events",
     "url": "https://www.worthington.org/RSSFeed.aspx?ModID=58&CID=Parks-Recreation-20",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Worthington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -145,7 +145,7 @@
     "description": "Worthington, OH - Get the latest events",
     "url": "https://www.worthington.org/RSSFeed.aspx?ModID=58&CID=Garage-Sales-25",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Worthington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -585,7 +585,7 @@
     "description": "Gahanna, OH - Get the latest alerts",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=76&CID=All-0",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -605,7 +605,7 @@
     "description": "Gahanna, OH - Get the latest alerts",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=63&CID=All-0",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -615,7 +615,7 @@
     "description": "Gahanna, OH - Get the latest alerts",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=63&CID=City-Hall-Alerts-16",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -625,7 +625,7 @@
     "description": "Gahanna, OH - Get the latest alerts",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=63&CID=Golf-Course-Alerts-5",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -635,7 +635,7 @@
     "description": "Gahanna, OH - Get the latest alerts",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=63&CID=Pool-Alerts-6",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -645,7 +645,7 @@
     "description": "Gahanna, OH - Get the latest alerts",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=63&CID=Senior-Center-17",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -655,7 +655,7 @@
     "description": "Gahanna, OH - Get the latest alerts",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=63&CID=Sidewalk-Maintenance-Program-14",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -665,7 +665,7 @@
     "description": "Gahanna, OH - Get the latest alerts",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=63&CID=Street-Sidewalk-Rebuild-Program-7",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -675,7 +675,7 @@
     "description": "Gahanna, OH - Get the latest alerts",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=63&CID=Street-Asphalt-Overlay-Sidewalk-Program-8",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -685,7 +685,7 @@
     "description": "Gahanna, OH - Get the latest alerts",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=63&CID=Street-Crack-Seal-Program-9",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -695,7 +695,7 @@
     "description": "Gahanna, OH - Get the latest from Blog",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=51&CID=All-blog.xml",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Blog",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -705,7 +705,7 @@
     "description": "Gahanna, OH - Get the latest events",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=58&CID=All-calendar.xml",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -715,7 +715,7 @@
     "description": "Gahanna, OH - Get the latest events",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=58&CID=City-Council-28",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -725,7 +725,7 @@
     "description": "Gahanna, OH - Get the latest events",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=58&CID=Main-Calendar-Events-27",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -735,7 +735,7 @@
     "description": "Gahanna, OH - Get the latest events",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=58&CID=Main-Calendar-Meetings-14",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -745,7 +745,7 @@
     "description": "Gahanna, OH - Get the latest events",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=58&CID=Parks-and-Recreation-Aquatics-34",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -755,7 +755,7 @@
     "description": "Gahanna, OH - Get the latest events",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=58&CID=Parks-and-Recreation-Golf-35",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -765,7 +765,7 @@
     "description": "Gahanna, OH - Get the latest events",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=58&CID=Parks-and-Recreation-Main-Page-Events-25",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -775,7 +775,7 @@
     "description": "Gahanna, OH - Get the latest events",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=58&CID=Parks-and-Recreation-Main-Page-Meetings-31",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -785,7 +785,7 @@
     "description": "Gahanna, OH - Get the latest events",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=58&CID=Parks-and-Recreation-Board-Meetings-32",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -795,7 +795,7 @@
     "description": "Gahanna, OH - Get the latest events",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=58&CID=Police-24",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -805,7 +805,7 @@
     "description": "Gahanna, OH - Get the latest events",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=58&CID=Swift-Swim-36",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -885,7 +885,7 @@
     "description": "Gahanna, OH - Get the latest additions to photo gallery",
     "url": "https://www.gahanna.gov/RSSFeed.aspx?ModID=53&CID=All-0",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Photos",
     "location": "Gahanna, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1015,7 +1015,7 @@
     "description": "Upper Arlington, OH - Get the latest alerts",
     "url": "https://www.upperarlingtonoh.gov/RSSFeed.aspx?ModID=63&CID=All-0",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Upper Arlington, Upper Arlington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1025,7 +1025,7 @@
     "description": "Upper Arlington, OH - Get the latest alerts",
     "url": "https://www.upperarlingtonoh.gov/RSSFeed.aspx?ModID=63&CID=Parks-Recreation-Updates-5",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Upper Arlington, Upper Arlington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1035,7 +1035,7 @@
     "description": "Upper Arlington, OH - Get the latest alerts",
     "url": "https://www.upperarlingtonoh.gov/RSSFeed.aspx?ModID=63&CID=Safety-Alert-4",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Upper Arlington, Upper Arlington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1045,7 +1045,7 @@
     "description": "Upper Arlington, OH - Get the latest from Blog",
     "url": "https://www.upperarlingtonoh.gov/RSSFeed.aspx?ModID=51&CID=All-blog.xml",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Blog",
     "location": "Upper Arlington, Upper Arlington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1055,7 +1055,7 @@
     "description": "Upper Arlington, OH - Get the latest events",
     "url": "https://www.upperarlingtonoh.gov/RSSFeed.aspx?ModID=58&CID=All-calendar.xml",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Upper Arlington, Upper Arlington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1065,7 +1065,7 @@
     "description": "Upper Arlington, OH - Get the latest events",
     "url": "https://www.upperarlingtonoh.gov/RSSFeed.aspx?ModID=58&CID=Events-14",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Upper Arlington, Upper Arlington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1075,7 +1075,7 @@
     "description": "Upper Arlington, OH - Get the latest events",
     "url": "https://www.upperarlingtonoh.gov/RSSFeed.aspx?ModID=58&CID=Meetings-23",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Upper Arlington, Upper Arlington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1085,7 +1085,7 @@
     "description": "Upper Arlington, OH - Get the latest events",
     "url": "https://www.upperarlingtonoh.gov/RSSFeed.aspx?ModID=58&CID=Parks-Recreation-Events-25",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Upper Arlington, Upper Arlington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1095,7 +1095,7 @@
     "description": "Upper Arlington, OH - Get the latest events",
     "url": "https://www.upperarlingtonoh.gov/RSSFeed.aspx?ModID=58&CID=Parks-Recreation-Meetings-24",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Upper Arlington, Upper Arlington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1145,7 +1145,7 @@
     "description": "Upper Arlington, OH - Get the latest additions to photo gallery",
     "url": "https://www.upperarlingtonoh.gov/RSSFeed.aspx?ModID=53&CID=All-0",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Photos",
     "location": "Upper Arlington, Upper Arlington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1155,7 +1155,7 @@
     "description": "Upper Arlington, OH - Get the latest additions to photo gallery",
     "url": "https://www.upperarlingtonoh.gov/RSSFeed.aspx?ModID=53&CID=Amelita-Mirolo-Barn-3",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Photos",
     "location": "Upper Arlington, Upper Arlington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1165,7 +1165,7 @@
     "description": "Upper Arlington, OH - Get the latest additions to photo gallery",
     "url": "https://www.upperarlingtonoh.gov/RSSFeed.aspx?ModID=53&CID=Fire-Division-History-5",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Photos",
     "location": "Upper Arlington, Upper Arlington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1175,7 +1175,7 @@
     "description": "Upper Arlington, OH - Get the latest additions to photo gallery",
     "url": "https://www.upperarlingtonoh.gov/RSSFeed.aspx?ModID=53&CID=Thompson-Park-2",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Photos",
     "location": "Upper Arlington, Upper Arlington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1185,7 +1185,7 @@
     "description": "Upper Arlington, OH - Get the latest additions to photo gallery",
     "url": "https://www.upperarlingtonoh.gov/RSSFeed.aspx?ModID=53&CID=UA-Pride-Event-4",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Photos",
     "location": "Upper Arlington, Upper Arlington, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1405,7 +1405,7 @@
     "description": "Whitehall, OH - Get the latest alerts",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=63&CID=All-0",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1415,7 +1415,7 @@
     "description": "Whitehall, OH - Get the latest alerts",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=63&CID=Emergency-Alerts-1",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1425,7 +1425,7 @@
     "description": "Whitehall, OH - Get the latest alerts",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=63&CID=eUpdate-7",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1435,7 +1435,7 @@
     "description": "Whitehall, OH - Get the latest alerts",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=63&CID=Road-Closure-3",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1445,7 +1445,7 @@
     "description": "Whitehall, OH - Get the latest alerts",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=63&CID=TaxFinance-Office-6",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1455,7 +1455,7 @@
     "description": "Whitehall, OH - Get the latest alerts",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=63&CID=Weather-4",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1465,7 +1465,7 @@
     "description": "Whitehall, OH - Get the latest events",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=58&CID=All-calendar.xml",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1475,7 +1475,7 @@
     "description": "Whitehall, OH - Get the latest events",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=58&CID=Attention-Whitehall-Residents-30",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1485,7 +1485,7 @@
     "description": "Whitehall, OH - Get the latest events",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=58&CID=City-Council-Agenda-Voting-Meeting-32",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1495,7 +1495,7 @@
     "description": "Whitehall, OH - Get the latest events",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=58&CID=City-Meetings-23",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1505,7 +1505,7 @@
     "description": "Whitehall, OH - Get the latest events",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=58&CID=Community-Calendar-14",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1515,7 +1515,7 @@
     "description": "Whitehall, OH - Get the latest events",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=58&CID=Parks-Recreation-22",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1525,7 +1525,7 @@
     "description": "Whitehall, OH - Get the latest events",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=58&CID=Parks-and-Recreation-Commission-working--29",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1535,7 +1535,7 @@
     "description": "Whitehall, OH - Get the latest events",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=58&CID=Senior-Center-28",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1565,7 +1565,7 @@
     "description": "Whitehall, OH - Get the latest additions to photo gallery",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=53&CID=All-0",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Photos",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1575,7 +1575,7 @@
     "description": "Whitehall, OH - Get the latest additions to photo gallery",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=53&CID=City-of-Whitehall-4",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Photos",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1585,7 +1585,7 @@
     "description": "Whitehall, OH - Get the latest additions to photo gallery",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=53&CID=Fire-Equipment-2",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Photos",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1595,7 +1595,7 @@
     "description": "Whitehall, OH - Get the latest additions to photo gallery",
     "url": "https://www.whitehall-oh.us/RSSFeed.aspx?ModID=53&CID=Swearing-In-Of-2014-Council-And-Commissi-8",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Photos",
     "location": "Whitehall, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1685,7 +1685,7 @@
     "description": "Grove City, OH - Get the latest alerts",
     "url": "https://www.grovecityohio.gov/RSSFeed.aspx?ModID=76&CID=All-0",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Grove City, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1705,7 +1705,7 @@
     "description": "Grove City, OH - Get the latest alerts",
     "url": "https://www.grovecityohio.gov/RSSFeed.aspx?ModID=63&CID=All-0",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Alerts",
     "location": "Grove City, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1715,7 +1715,7 @@
     "description": "Grove City, OH - Get the latest from Blog",
     "url": "https://www.grovecityohio.gov/RSSFeed.aspx?ModID=51&CID=All-blog.xml",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Blog",
     "location": "Grove City, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1725,7 +1725,7 @@
     "description": "Grove City, OH - Get the latest events",
     "url": "https://www.grovecityohio.gov/RSSFeed.aspx?ModID=58&CID=All-calendar.xml",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Grove City, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1735,7 +1735,7 @@
     "description": "Grove City, OH - Get the latest events",
     "url": "https://www.grovecityohio.gov/RSSFeed.aspx?ModID=58&CID=Building-and-Inspections-23",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Grove City, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1745,7 +1745,7 @@
     "description": "Grove City, OH - Get the latest events",
     "url": "https://www.grovecityohio.gov/RSSFeed.aspx?ModID=58&CID=City-Council-24",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Grove City, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1755,7 +1755,7 @@
     "description": "Grove City, OH - Get the latest events",
     "url": "https://www.grovecityohio.gov/RSSFeed.aspx?ModID=58&CID=Development-25",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Grove City, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1765,7 +1765,7 @@
     "description": "Grove City, OH - Get the latest events",
     "url": "https://www.grovecityohio.gov/RSSFeed.aspx?ModID=58&CID=Events-35",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Grove City, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1775,7 +1775,7 @@
     "description": "Grove City, OH - Get the latest events",
     "url": "https://www.grovecityohio.gov/RSSFeed.aspx?ModID=58&CID=Holidays-39",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Grove City, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1785,7 +1785,7 @@
     "description": "Grove City, OH - Get the latest events",
     "url": "https://www.grovecityohio.gov/RSSFeed.aspx?ModID=58&CID=Main-Calendar-14",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Grove City, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1795,7 +1795,7 @@
     "description": "Grove City, OH - Get the latest events",
     "url": "https://www.grovecityohio.gov/RSSFeed.aspx?ModID=58&CID=Mayors-Court-36",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Grove City, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1805,7 +1805,7 @@
     "description": "Grove City, OH - Get the latest events",
     "url": "https://www.grovecityohio.gov/RSSFeed.aspx?ModID=58&CID=Parks-and-Recreation-27",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Grove City, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1815,7 +1815,7 @@
     "description": "Grove City, OH - Get the latest events",
     "url": "https://www.grovecityohio.gov/RSSFeed.aspx?ModID=58&CID=Police-28",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Grove City, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1825,7 +1825,7 @@
     "description": "Grove City, OH - Get the latest events",
     "url": "https://www.grovecityohio.gov/RSSFeed.aspx?ModID=58&CID=SALT-Meetings-38",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Grove City, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1835,7 +1835,7 @@
     "description": "Grove City, OH - Get the latest events",
     "url": "https://www.grovecityohio.gov/RSSFeed.aspx?ModID=58&CID=Service-29",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Events",
     "location": "Grove City, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -1915,7 +1915,7 @@
     "description": "Grove City, OH - Get the latest additions to photo gallery",
     "url": "https://www.grovecityohio.gov/RSSFeed.aspx?ModID=53&CID=All-0",
     "url_type": "rss",
-    "category": "Government",
+    "category": "Government,Photos",
     "location": "Grove City, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -2045,7 +2045,7 @@
     "description": "",
     "url": "https://www.fcfair.org/",
     "url_type": "url",
-    "category": "Other",
+    "category": "Government,Fair,Events",
     "location": "Columbus, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -2055,7 +2055,7 @@
     "description": "",
     "url": "https://fcas.com/",
     "url_type": "url",
-    "category": "Other",
+    "category": "Government,Fair,Events",
     "location": "Columbus, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -2065,7 +2065,7 @@
     "description": "",
     "url": "https://www.ohiostatefair.com/",
     "url_type": "url",
-    "category": "Other",
+    "category": "Government,Fair,Events",
     "location": "Columbus, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -2315,7 +2315,7 @@
     "description": "Unofficial feed parsing COTA.com's alerts feed",
     "url": "https://raw.githubusercontent.com/benlk/cota-reroute-pdf-rss/main/rss.xml",
     "url_type": "rss",
-    "category": "Aggregator",
+    "category": "Alerts,Transportation",
     "location": "Columbus, OH, United States of America",
     "alt_location": "Central Ohio"
   },
@@ -6165,7 +6165,7 @@
     "description": "",
     "url": "https://www.destinationgrandview.org/news-blog/",
     "url_type": "url",
-    "category": "",
+    "category": "Tourism",
     "location": "",
     "alt_location": "Central Ohio"
   },
