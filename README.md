@@ -16,7 +16,13 @@ A (WIP) collection of central (and beyond) Ohio sites, feeds, calendars, and blo
 ---
 1011 Total
 
+## Add new site
+Manually add a new site by editing the csv, then re-run `csv_to_json.py`, `duplicates.py`, `opml.py`, and both alphabetical python scripts.
+
+*or* Create a new issue, select 'Submit a new site'. Fill out the required fields and the Github action *should* create a PR for your new site automatically.
+
 ## Python Tools (`tools/`)
+
 - csv_to_json.py
   - Converts the CSV into a json file (useful to run the website)
 - duplicates.py
@@ -29,7 +35,11 @@ A (WIP) collection of central (and beyond) Ohio sites, feeds, calendars, and blo
   - Fetches URLs (w/o titles) to fill in title/description columns. Use with `--full` to refetch all existing urls
 - totals.py
   - Counts up number of urls, rss+atom feeds, activitypub accounts, and atproto accounts to add to README
- 
+- alphabetical_csv.py
+  - Sorts the entire CSV on the url column, alphabetically.
+- alphabetical_tags.py
+  - Sorts the Category field for each row, alphabetically.
+
 ## Opening `index.html`
 - This is a example website probably won't be a longterm project
 - Run the csv_to_json.py
