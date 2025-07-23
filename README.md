@@ -16,5 +16,7 @@ A (WIP) collection of central (and beyond) Ohio sites, feeds, calendars, and blo
 
 ### Useful Resources
 https://github.com/benlk/columbus-govdelivery-rss/
+
 https://github.com/benlk/columbus-misc-rss/
+
 https://github.com/benlk/columbus-gov-websites/
