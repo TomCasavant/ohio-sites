@@ -16,7 +16,7 @@ body:
     attributes:
       label: URL Type
       description: url, rss, atom, activitypub, atproto (bluesky), or other
-      options: [url, rss, atom, activitypub, atproto, or other]
+      options: [url, rss, atom, activitypub, atproto, other]
     validations:
       required: true
 
