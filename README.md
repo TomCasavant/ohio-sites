@@ -10,11 +10,11 @@ A (WIP) collection of central (and beyond) Ohio sites, feeds, calendars, and blo
 
 ## Python Tools (`tools/`)
 - csv_to_json.py
--- Converts the CSV into a json file (useful to run the website)
+  - Converts the CSV into a json file (useful to run the website)
 - duplicates.py
--- Checks if the CSV contains any duplicate URLs
+  - Checks if the CSV contains any duplicate URLs
 - opml.py
--- Generates an OPML of all atom/rss feeds from the CSV
+  - Generates an OPML of all atom/rss feeds from the CSV
 
 ## Opening `index.html`
 - This is a example website probably won't be a longterm project
