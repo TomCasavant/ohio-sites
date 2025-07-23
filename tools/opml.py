@@ -4,7 +4,7 @@ from pathlib import Path
 
 def generate_opml():
     input_file = 'ohio.csv'
-    output_file = 'output.opml'
+    output_file = 'ohio.opml'
 
     root = ET.Element('opml', version="2.0")
     head = ET.SubElement(root, 'head')

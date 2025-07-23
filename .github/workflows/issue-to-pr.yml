@@ -36,7 +36,7 @@ jobs:
           git diff --stat
 
       - name: Stage changes
-        run: git add ohio.csv data.json output.opml
+        run: git add ohio.csv ohio.json ohio.opml
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
