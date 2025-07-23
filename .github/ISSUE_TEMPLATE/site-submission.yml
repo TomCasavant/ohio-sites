@@ -3,41 +3,41 @@ description: Add a new website to the Ohio directory
 body:
   - type: input
     id: url
-    description: The main url of the resource
     attributes:
       label: URL
+      help: The main url of the resource
     validations:
       required: true
   - type: input
     id: url_type
-    description: url, rss, atom, activitypub, or atproto
     attributes:
       label: URL Type
+      help: url, rss, atom, activitypub, or atproto
     validations:
       required: true
   - type: input
     id: category
-    description: List of comma separated tags (e.g. Government,Festival)
     attributes:
       label: Category
+      help: List of comma-separated tags (e.g., Government, Festival)
     validations:
       required: true
   - type: input
     id: location
-    description: As precise as possible
     attributes:
       label: Location
+      help: As precise as possible
   - type: input
     id: alt_location
-    description: Central Ohio, NE Ohio, SW Ohio, SE Ohio, NW Ohio
     attributes:
       label: Alternate Location
+      help: Central Ohio, NE Ohio, SW Ohio, SE Ohio, NW Ohio
     validations:
       required: true
   - type: input
     id: link
-    description: The homepage of the resource, e.g. if url = https://columbus.gov/feed/ then link = https://columbus.gov/
     attributes:
       label: Link
+      help: The homepage of the resource, e.g., if url=https://columbus.gov/feed/ then link=https://columbus.gov/
     validations:
       required: true
