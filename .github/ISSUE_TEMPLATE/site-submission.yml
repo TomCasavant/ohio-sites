@@ -39,7 +39,7 @@ body:
     attributes:
       label: Alternate Location
       options: [Central Ohio, NE Ohio, SW Ohio, SE Ohio, NW Ohio]
-      description: Central Ohio, NE Ohio, SW Ohio, SE Ohio, NW Ohio
+      description: Central Ohio, NE Ohio, SW Ohio, SE Ohio, NW Ohio, Ohio
     validations:
       required: true
 
