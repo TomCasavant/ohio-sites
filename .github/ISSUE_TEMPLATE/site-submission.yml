@@ -38,7 +38,7 @@ body:
     id: alt_location
     attributes:
       label: Alternate Location
-      options: [Central Ohio, NE Ohio, SW Ohio, SE Ohio, NW Ohio]
+      options: [Central Ohio, NE Ohio, SW Ohio, SE Ohio, NW Ohio, Ohio]
       description: Central Ohio, NE Ohio, SW Ohio, SE Ohio, NW Ohio, Ohio
     validations:
       required: true
