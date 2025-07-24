@@ -1,7 +1,9 @@
 import csv
+import json
 import argparse
 import requests
 from bs4 import BeautifulSoup
+from pathlib import Path
 
 CSV_FILE = "ohio.csv"
 
@@ -17,30 +19,40 @@ def fetch_page_metadata(url):
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
         soup = BeautifulSoup(response.text, "html.parser")
-        title = soup.title.string.strip() if soup.title else ""
-        description_tag = soup.find("meta", attrs={"name": "description"})
-        description = description_tag["content"].strip() if description_tag and description_tag.get("content") else ""
-        return title, description
-    except Exception as e:
-        print(f"Failed to fetch metadata from {url}: {e}")
-        return "", ""
 
-def update_url_metadata(full=False):
+        title = soup.title.string.strip() if soup.title and soup.title.string else ""
+        description_tag = soup.find("meta", attrs={"name": "description"})
+        description = (
+            description_tag["content"].strip()
+            if description_tag and description_tag.get("content")
+            else ""
+        )
+        return {"url": url, "title": title, "description": description, "success": True}
+    except Exception as e:
+        return {"url": url, "title": "", "description": "", "success": False, "error": str(e)}
+
+def update_csv_metadata(csv_file=CSV_FILE, full=False):
+    csv_path = Path(csv_file)
+    if not csv_path.exists():
+        print(f"File not found: {csv_file}")
+        return
+
     rows = []
 
-    with open(CSV_FILE, newline='', encoding="utf-8-sig") as f:
+    with csv_path.open(newline='', encoding="utf-8-sig") as f:
         reader = csv.DictReader(f)
-        fieldnames = reader.fieldnames
+        fieldnames = reader.fieldnames or []
         for row in reader:
-            if row["url_type"] == "url":
-                if full or not row["title"].strip():
-                    title, description = fetch_page_metadata(row["url"])
+            if row.get("url_type") == "url":
+                if full or not row.get("title", "").strip():
+                    result = fetch_page_metadata(row["url"])
+                    title, description = result["title"], result["description"]
 
                     if title or description:
                         print(f"\nPage: {row['url']}")
-                        print(f"Current title:    {row['title']}")
+                        print(f"Current title:    {row.get('title', '')}")
                         print(f"Fetched title:    {title}")
-                        print(f"Current summary:  {row['description']}")
+                        print(f"Current summary:  {row.get('description', '')}")
                         print(f"Fetched summary:  {description}")
 
                         title_choice = "y" if not row['title'] else input("Use new title? (y/N): ").strip().lower()
@@ -53,13 +65,22 @@ def update_url_metadata(full=False):
 
             rows.append(row)
 
-    with open(CSV_FILE, "w", newline='', encoding="utf-8-sig") as f:
+    with csv_path.open("w", newline='', encoding="utf-8-sig") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()
         writer.writerows(rows)
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Update page metadata for url-type rows.")
-    parser.add_argument("--full", action="store_true", help="Include rows with existing titles")
+def main():
+    parser = argparse.ArgumentParser(description="Update metadata for pages in a CSV or return metadata for a given URL.")
+    parser.add_argument("--full", action="store_true", help="Include rows with existing titles/descriptions when updating the CSV.")
+    parser.add_argument("--url", help="Fetch metadata for a single URL and return as JSON.")
     args = parser.parse_args()
-    update_url_metadata(full=args.full)
+
+    if args.url:
+        metadata = fetch_page_metadata(args.url)
+        print(json.dumps(metadata, indent=2))
+    else:
+        update_csv_metadata(full=args.full)
+
+if __name__ == "__main__":
+    main()
