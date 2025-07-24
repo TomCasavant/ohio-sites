@@ -25,7 +25,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install Python dependencies
-        run: pip install requests beautifulsoup4 python-slugify
+        run: pip install requests beautifulsoup4 python-slugify feedparser
 
       - name: Run script to update CSV and generate files
         run: python .github/scripts/process_issue.py "${{ github.event.issue.body }}"
