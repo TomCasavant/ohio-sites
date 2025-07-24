@@ -78,7 +78,7 @@ def main():
         'url_type': url_type,
         'category': parsed.get('category', ''),
         'location': parsed.get('location', ''),
-        'alt_location': parsed.get('alt_location', ''),
+        'alt_location': parsed.get('alternate_location', ''),
     }
 
     add_row(data)
