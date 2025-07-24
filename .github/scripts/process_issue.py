@@ -1,6 +1,13 @@
 import sys
 import csv
 import os
+import sys
+import pathlib
+
+# Janky solution, I don't even know if I have to run process issue from within .github/scripts so I may move it back to the root directory
+repo_root = pathlib.Path(__file__).parent.parent.parent.resolve()
+sys.path.insert(0, str(repo_root))
+
 from tools.duplicates import find_duplicate_urls
 from tools.rss_cleanup import fetch_feed_metadata
 from tools.url_cleanup import fetch_page_metadata
