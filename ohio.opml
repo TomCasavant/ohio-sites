@@ -476,6 +476,7 @@
 		<outline type="rss" text="" title="" xmlUrl="https://refectory.com/feed/" htmlUrl="https://refectory.com/" />
 		<outline type="rss" text="" title="" xmlUrl="https://sonictemplefestival.com/feed/" htmlUrl="https://sonictemplefestival.com/" />
 		<outline type="rss" text="" title="" xmlUrl="https://theactorstheatre.org/feed/" htmlUrl="https://theactorstheatre.org/" />
+		<outline type="atom" text="Tom Casavant" title="Tom Casavant" xmlUrl="https://tomcasavant.com/blog.xml" htmlUrl="https://tomcasavant.com/" />
 		<outline type="rss" text="Transit Columbus newsletter" title="Transit Columbus newsletter" xmlUrl="https://transitcolumbus.org/events/?format=rss" htmlUrl="https://transitcolumbus.org" />
 		<outline type="rss" text="Transit Columbus newsletter" title="Transit Columbus newsletter" xmlUrl="https://transitcolumbus.org/news-updates?format=rss" htmlUrl="https://transitcolumbus.org" />
 		<outline type="rss" text="" title="" xmlUrl="https://upperarlingtonoh.gov/feed/" htmlUrl="https://upperarlingtonoh.gov/" />

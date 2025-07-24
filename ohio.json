@@ -6080,6 +6080,16 @@
     "alt_location": "Central Ohio"
   },
   {
+    "title": "Tom Casavant",
+    "link": "https://tomcasavant.com/",
+    "description": "Blog about things",
+    "url": "https://tomcasavant.com/blog.xml",
+    "url_type": "atom",
+    "category": "blog,social,test,tom",
+    "location": "Columbus, Ohio",
+    "alt_location": "NW Ohio"
+  },
+  {
     "title": "Golf, Party Venue, Sports Bar & Restaurant | Topgolf Columbus",
     "link": "https://topgolf.com/us/columbus/",
     "description": "",
