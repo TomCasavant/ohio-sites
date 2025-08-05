@@ -50,6 +50,7 @@
 		<outline type="rss" text="Downtown Columbus" title="Downtown Columbus" xmlUrl="https://downtowncolumbus.com/feed/" htmlUrl="https://downtowncolumbus.com/" />
 		<outline type="rss" text="Downtown Services general feed" title="Downtown Services general feed" xmlUrl="https://downtownservices.org/feed/" htmlUrl="" />
 		<outline type="rss" text="Downtown Services News Articles" title="Downtown Services News Articles" xmlUrl="https://downtownservices.org/news-article/feed/" htmlUrl="" />
+		<outline type="rss" text="Drink Up Columbus | Columbus blog about beer, wine, spirits, bars and events" title="Drink Up Columbus | Columbus blog about beer, wine, spirits, bars and events" xmlUrl="https://drinkupcolumbus.com/rss" htmlUrl="https://drinkupcolumbus.com/" />
 		<outline type="rss" text="South Drive-in Theater" title="South Drive-in Theater" xmlUrl="https://drive-inmovies.com/feed/" htmlUrl="https://drive-inmovies.com/" />
 		<outline type="rss" text="" title="" xmlUrl="https://dublinirishfestival.org/feed/" htmlUrl="https://dublinirishfestival.org/" />
 		<outline type="rss" text="City of Dublin, Ohio, USA" title="City of Dublin, Ohio, USA" xmlUrl="https://dublinohiousa.gov/feed/" htmlUrl="https://dublinohiousa.gov/" />
