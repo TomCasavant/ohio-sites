@@ -480,6 +480,7 @@
 		<outline type="rss" text="Transit Columbus newsletter" title="Transit Columbus newsletter" xmlUrl="https://transitcolumbus.org/news-updates?format=rss" htmlUrl="https://transitcolumbus.org" />
 		<outline type="rss" text="" title="" xmlUrl="https://upperarlingtonoh.gov/feed/" htmlUrl="https://upperarlingtonoh.gov/" />
 		<outline type="rss" text="Uptown Westerville Inc" title="Uptown Westerville Inc" xmlUrl="https://uptownwestervilleinc.com/feed/" htmlUrl="https://uptownwestervilleinc.com/" />
+		<outline type="atom" text="" title="" xmlUrl="https://urbanohio.com/rss/1-urbanohio-rss-feed.xml/" htmlUrl="https://urbanohio.com/" />
 		<outline type="rss" text="Clintonville Area Commission zoning committee newsletter" title="Clintonville Area Commission zoning committee newsletter" xmlUrl="https://us14.campaign-archive.com/feed?u=3d4bdc2e75c185cac799714d1&amp;id=2af4434c35" htmlUrl="https://www.clintonvilleareacommission.org/" />
 		<outline type="rss" text="One Linden" title="One Linden" xmlUrl="https://us16.campaign-archive.com/feed?u=30613ae7ca0d57eb558719248&amp;id=160853d600" htmlUrl="https://us16.campaign-archive.com/home/?u=30613ae7ca0d57eb558719248&amp;id=160853d600" />
 		<outline type="rss" text="Capital Line Updates from Downtown Columbus Inc." title="Capital Line Updates from Downtown Columbus Inc." xmlUrl="https://us20.campaign-archive.com/feed?u=23d046be52c23a359a09fb6be&amp;id=6047a8f954" htmlUrl="https://downtowncolumbus.com/projects-initiatives/capitalline/" />
