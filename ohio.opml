@@ -106,6 +106,7 @@
 		<outline type="rss" text="" title="" xmlUrl="https://ohiocaverns.com/feed/" htmlUrl="https://ohiocaverns.com/" />
 		<outline type="rss" text="" title="" xmlUrl="https://ohiocraft.org/feed/" htmlUrl="https://ohiocraft.org/" />
 		<outline type="rss" text="" title="" xmlUrl="https://ohiofestivals.net/feed/" htmlUrl="https://ohiofestivals.net/" />
+		<outline type="rss" text="" title="" xmlUrl="https://ohiofestivals.net/web-stories/feed/" htmlUrl="https://ohiofestivals.net/" />
 		<outline type="rss" text="Ohio State Athletics" title="Ohio State Athletics" xmlUrl="https://ohiostatebuckeyes.com/api/v2/Calendar/subscribe?type=rss" htmlUrl="https://ohiostatebuckeyes.com/" />
 		<outline type="atom" text="top scoring links : Columbus" title="top scoring links : Columbus" xmlUrl="https://old.reddit.com/r/columbus/top.rss?t=week" htmlUrl="https://reddit.com/r/columbus" />
 		<outline type="rss" text="Mohawk" title="Mohawk" xmlUrl="https://oldmohawktavern.com/feed/" htmlUrl="https://oldmohawktavern.com/" />
