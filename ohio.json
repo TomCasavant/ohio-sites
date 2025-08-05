@@ -6183,6 +6183,16 @@
     "title": "",
     "link": "https://urbanohio.com/",
     "description": "",
+    "url": "https://urbanohio.com/",
+    "url_type": "url",
+    "category": "Social",
+    "location": "Ohio",
+    "alt_location": "Ohio"
+  },
+  {
+    "title": "",
+    "link": "https://urbanohio.com/",
+    "description": "",
     "url": "https://urbanohio.com/rss/1-urbanohio-rss-feed.xml/",
     "url_type": "atom",
     "category": "Social",
