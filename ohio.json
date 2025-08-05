@@ -790,6 +790,16 @@
     "alt_location": "Central Ohio"
   },
   {
+    "title": "",
+    "link": "https://columbusfoodletter.substack.com/",
+    "description": "",
+    "url": "https://columbusfoodletter.substack.com/feed",
+    "url_type": "rss",
+    "category": "Blog,Food",
+    "location": "Columbus, Ohio",
+    "alt_location": "Central Ohio"
+  },
+  {
     "title": "Home - Columbus Food Truck Festival",
     "link": "https://columbusfoodtruckfest.com/",
     "description": "",
