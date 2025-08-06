@@ -9190,6 +9190,16 @@
     "alt_location": "Central Ohio"
   },
   {
+    "title": "The Ohio Eggfest",
+    "link": "https://www.theohioeggfest.com/",
+    "description": "Big Green Egg Festival",
+    "url": "https://www.theohioeggfest.com/feed/",
+    "url_type": "rss",
+    "category": "Festival,Food",
+    "location": "Obetz, Ohio",
+    "alt_location": "Central Ohio"
+  },
+  {
     "title": "The Walrus - The Walrus",
     "link": "https://www.thewalruscolumbus.com/",
     "description": "",
