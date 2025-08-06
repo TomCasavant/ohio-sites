@@ -515,6 +515,7 @@
 		<outline type="rss" text="Discover Grove City" title="Discover Grove City" xmlUrl="https://www.cityscenecolumbus.com/communities/discovergrovecity/index.rss" htmlUrl="https://www.cityscenecolumbus.com/communities/discovergrovecity" />
 		<outline type="rss" text="Dublin Life" title="Dublin Life" xmlUrl="https://www.cityscenecolumbus.com/communities/dublinlife/index.rss" htmlUrl="https://www.cityscenecolumbus.com/communities/dublinlife/" />
 		<outline type="rss" text="Communities" title="Communities" xmlUrl="https://www.cityscenecolumbus.com/communities/index.rss" htmlUrl="https://www.cityscenecolumbus.com/" />
+		<outline type="rss" text="Pickerington" title="Pickerington" xmlUrl="https://www.cityscenecolumbus.com/communities/pickerington/index.rss" htmlUrl="https://www.cityscenecolumbus.com/communities/pickerington/" />
 		<outline type="rss" text="Westerville" title="Westerville" xmlUrl="https://www.cityscenecolumbus.com/communities/westerville/index.rss" htmlUrl="https://www.cityscenecolumbus.com/communities/westerville/" />
 		<outline type="rss" text="Clintonville Area Commission" title="Clintonville Area Commission" xmlUrl="https://www.clintonvilleareacommission.org/feed" htmlUrl="https://www.clintonvilleareacommission.org/" />
 		<outline type="rss" text="Columbus Museum of African-American History &amp; Culture" title="Columbus Museum of African-American History &amp; Culture" xmlUrl="https://www.coaam.org/feed/" htmlUrl="https://www.coaam.org/" />
