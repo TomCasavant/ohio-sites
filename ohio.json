@@ -6900,6 +6900,16 @@
     "alt_location": "Central Ohio"
   },
   {
+    "title": "Dublin Life",
+    "link": "https://www.cityscenecolumbus.com/communities/dublinlife/",
+    "description": "",
+    "url": "https://www.cityscenecolumbus.com/communities/dublinlife/index.rss",
+    "url_type": "rss",
+    "category": "News,Tourism",
+    "location": "Dublin, Ohio",
+    "alt_location": "Central Ohio"
+  },
+  {
     "title": "Communities",
     "link": "https://www.cityscenecolumbus.com/",
     "description": "",
