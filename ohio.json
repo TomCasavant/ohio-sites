@@ -6900,11 +6900,14 @@
     "alt_location": "Central Ohio"
   },
   {
-    "title": "Dublin Life",
-    "link": "https://www.cityscenecolumbus.com/communities/dublinlife/",
+    "title": "Discover Grove City - CityScene Magazine",
+    "link": "https://www.cityscenecolumbus.com/communities/discovergrovecity",
     "description": "",
-    "url": "https://www.cityscenecolumbus.com/communities/dublinlife/index.rss",
-    "url_type": "rss",
+    "url": "https://www.cityscenecolumbus.com/communities/discovergrovecity",
+    "url_type": "url",
+    "category": "News,Tourism",
+    "location": "Grove City, Ohio",
+    "alt_location": "Central Ohio"
   },
   {
     "title": "Dublin Life - CityScene Magazine",
@@ -6912,6 +6915,16 @@
     "description": "",
     "url": "https://www.cityscenecolumbus.com/communities/dublinlife",
     "url_type": "url",
+    "category": "News,Tourism",
+    "location": "Dublin, Ohio",
+    "alt_location": "Central Ohio"
+  },
+  {
+    "title": "Dublin Life",
+    "link": "https://www.cityscenecolumbus.com/communities/dublinlife/",
+    "description": "",
+    "url": "https://www.cityscenecolumbus.com/communities/dublinlife/index.rss",
+    "url_type": "rss",
     "category": "News,Tourism",
     "location": "Dublin, Ohio",
     "alt_location": "Central Ohio"
