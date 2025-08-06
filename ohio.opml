@@ -602,6 +602,7 @@
 		<outline type="rss" text="" title="" xmlUrl="https://www.ohioana.org/feed/" htmlUrl="https://www.ohioana.org/" />
 		<outline type="rss" text="" title="" xmlUrl="https://www.ohiohistory.org/rss" htmlUrl="https://www.ohiohistory.org" />
 		<outline type="rss" text="" title="" xmlUrl="https://www.ohiorc.org/rss" htmlUrl="https://www.ohiorc.org/" />
+		<outline type="rss" text="Ohio Traveler" title="Ohio Traveler" xmlUrl="https://www.ohiotraveler.com/feed/" htmlUrl="https://www.ohiotraveler.com/" />
 		<outline type="rss" text="OSU Emergency Alerts" title="OSU Emergency Alerts" xmlUrl="https://www.osu.edu/feeds/emergency-alert.rss" htmlUrl="" />
 		<outline type="atom" text="Play It! Games, Movies, &amp; Music" title="Play It! Games, Movies, &amp; Music" xmlUrl="https://www.playitgmm.com/blog-feed.xml" htmlUrl="https://www.playitgmm.com/" />
 		<outline type="rss" text="Scioto Mile" title="Scioto Mile" xmlUrl="https://www.sciotomile.com/rss" htmlUrl="https://www.sciotomile.com/" />
