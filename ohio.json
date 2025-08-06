@@ -6870,6 +6870,16 @@
     "alt_location": "Central Ohio"
   },
   {
+    "title": "CityScene Magazine - Your home for central Ohio Arts, Entertainment & Style",
+    "link": "https://www.cityscenecolumbus.com/",
+    "description": "Central Ohio's home for arts, entertainment & style",
+    "url": "https://www.cityscenecolumbus.com/api/rss/content.rss",
+    "url_type": "rss",
+    "category": "News",
+    "location": "Central Ohio",
+    "alt_location": "Central Ohio"
+  },
+  {
     "title": "Clintonville Area Commission",
     "link": "https://www.clintonvilleareacommission.org/",
     "description": "Whole-website feed for the Clintonville Area Commission",
