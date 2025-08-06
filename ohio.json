@@ -6890,6 +6890,16 @@
     "alt_location": "Central Ohio"
   },
   {
+    "title": "Communities",
+    "link": "https://www.cityscenecolumbus.com/",
+    "description": "",
+    "url": "https://www.cityscenecolumbus.com/communities/index.rss",
+    "url_type": "rss",
+    "category": "News,Tourism",
+    "location": "Columbus, Ohio",
+    "alt_location": "Central Ohio"
+  },
+  {
     "title": "Clintonville Area Commission",
     "link": "https://www.clintonvilleareacommission.org/",
     "description": "Whole-website feed for the Clintonville Area Commission",
