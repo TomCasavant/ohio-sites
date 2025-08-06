@@ -6920,6 +6920,16 @@
     "alt_location": "Central Ohio"
   },
   {
+    "title": "Westerville",
+    "link": "https://www.cityscenecolumbus.com/communities/westerville/",
+    "description": "",
+    "url": "https://www.cityscenecolumbus.com/communities/westerville/index.rss",
+    "url_type": "rss",
+    "category": "News,Tourism",
+    "location": "Westerville, Ohio",
+    "alt_location": "Central Ohio"
+  },
+  {
     "title": "Clintonville Area Commission",
     "link": "https://www.clintonvilleareacommission.org/",
     "description": "Whole-website feed for the Clintonville Area Commission",
