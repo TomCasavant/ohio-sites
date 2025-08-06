@@ -6905,6 +6905,13 @@
     "description": "",
     "url": "https://www.cityscenecolumbus.com/communities/dublinlife/index.rss",
     "url_type": "rss",
+  },
+  {
+    "title": "Dublin Life - CityScene Magazine",
+    "link": "https://www.cityscenecolumbus.com/communities/dublinlife",
+    "description": "",
+    "url": "https://www.cityscenecolumbus.com/communities/dublinlife",
+    "url_type": "url",
     "category": "News,Tourism",
     "location": "Dublin, Ohio",
     "alt_location": "Central Ohio"
@@ -6925,6 +6932,16 @@
     "description": "",
     "url": "https://www.cityscenecolumbus.com/communities/westerville",
     "url_type": "url",
+    "category": "News,Tourism",
+    "location": "Westerville, Ohio",
+    "alt_location": "Central Ohio"
+  },
+  {
+    "title": "Westerville",
+    "link": "https://www.cityscenecolumbus.com/communities/westerville/",
+    "description": "",
+    "url": "https://www.cityscenecolumbus.com/communities/westerville/index.rss",
+    "url_type": "rss",
     "category": "News,Tourism",
     "location": "Westerville, Ohio",
     "alt_location": "Central Ohio"
