@@ -6945,6 +6945,11 @@
     "description": "",
     "url": "https://www.cityscenecolumbus.com/communities/healthy-new-albany/index.rss",
     "url_type": "rss",
+    "title": "Healthy New Albany - CityScene Magazine",
+    "link": "https://www.cityscenecolumbus.com/communities/healthy-new-albany",
+    "description": "",
+    "url": "https://www.cityscenecolumbus.com/communities/healthy-new-albany",
+    "url_type": "url",
     "category": "News,Tourism",
     "location": "New Albany, Ohio",
     "alt_location": "Central Ohio"
@@ -6995,6 +7000,16 @@
     "description": "",
     "url": "https://www.cityscenecolumbus.com/communities/tri-village/index.rss",
     "url_type": "rss",
+    "category": "News,Tourism",
+    "location": "Columbus, Ohio",
+    "alt_location": "Central Ohio"
+  },
+  {
+    "title": "Tri-Village Magazine  - CityScene Magazine",
+    "link": "https://www.cityscenecolumbus.com/communities/tri-village",
+    "description": "",
+    "url": "https://www.cityscenecolumbus.com/communities/tri-village",
+    "url_type": "url",
     "category": "News,Tourism",
     "location": "Columbus, Ohio",
     "alt_location": "Central Ohio"
