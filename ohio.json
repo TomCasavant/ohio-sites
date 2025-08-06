@@ -6960,6 +6960,16 @@
     "alt_location": "Central Ohio"
   },
   {
+    "title": "Pickerington",
+    "link": "https://www.cityscenecolumbus.com/communities/pickerington/",
+    "description": "",
+    "url": "https://www.cityscenecolumbus.com/communities/pickerington/index.rss",
+    "url_type": "rss",
+    "category": "News,Tourism",
+    "location": "Pickerington, Ohio",
+    "alt_location": "Central Ohio"
+  },
+  {
     "title": "Tri-Village Magazine  - CityScene Magazine",
     "link": "https://www.cityscenecolumbus.com/communities/tri-village",
     "description": "",
@@ -6970,13 +6980,13 @@
     "alt_location": "Central Ohio"
   },
   {
-    "title": "Pickerington",
-    "link": "https://www.cityscenecolumbus.com/communities/pickerington/",
+    "title": "Tri-Village",
+    "link": "https://www.cityscenecolumbus.com/communities/tri-village/",
     "description": "",
-    "url": "https://www.cityscenecolumbus.com/communities/pickerington/index.rss",
+    "url": "https://www.cityscenecolumbus.com/communities/tri-village/index.rss",
     "url_type": "rss",
     "category": "News,Tourism",
-    "location": "Pickerington, Ohio",
+    "location": "Columbus, Ohio",
     "alt_location": "Central Ohio"
   },
   {
