@@ -8750,6 +8750,16 @@
     "alt_location": "Central Ohio"
   },
   {
+    "title": "Ohio Traveler",
+    "link": "https://www.ohiotraveler.com/",
+    "description": "",
+    "url": "https://www.ohiotraveler.com/feed/",
+    "url_type": "rss",
+    "category": "Tourism",
+    "location": "Ohio",
+    "alt_location": "Ohio"
+  },
+  {
     "title": "Family Friendly Activity Park | Olentangy Caverns | Columbus, OH",
     "link": "https://www.olentangycaverns.com/",
     "description": "",
