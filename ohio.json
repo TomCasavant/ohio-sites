@@ -6990,6 +6990,26 @@
     "alt_location": "Central Ohio"
   },
   {
+    "title": "Tri-Village",
+    "link": "https://www.cityscenecolumbus.com/communities/tri-village/",
+    "description": "",
+    "url": "https://www.cityscenecolumbus.com/communities/tri-village/index.rss",
+    "url_type": "rss",
+    "category": "News,Tourism",
+    "location": "Columbus, Ohio",
+    "alt_location": "Central Ohio"
+  },
+  {
+    "title": "Tri-Village Magazine  - CityScene Magazine",
+    "link": "https://www.cityscenecolumbus.com/communities/tri-village",
+    "description": "",
+    "url": "https://www.cityscenecolumbus.com/communities/tri-village",
+    "url_type": "url",
+    "category": "News,Tourism",
+    "location": "Columbus, Ohio",
+    "alt_location": "Central Ohio"
+  },
+  {
     "title": "Westerville - CityScene Magazine",
     "link": "https://www.cityscenecolumbus.com/communities/westerville",
     "description": "",
