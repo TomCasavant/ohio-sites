@@ -14,7 +14,7 @@ A (WIP) collection of central (and beyond) Ohio sites, feeds, calendars, and blo
 8 AtProto accounts
 
 ---
-1011 Total
+1061 Total
 
 ## Add new site
 Manually add a new site by editing the csv, then re-run `csv_to_json.py`, `duplicates.py`, `opml.py`, and both alphabetical python scripts.
