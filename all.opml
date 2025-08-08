@@ -104,6 +104,7 @@
 		<outline type="rss" text="Ohio State News" title="Ohio State News" xmlUrl="https://news.osu.edu/tagfeed/en-us/tags/News,Research__News" htmlUrl="https://news.osu.edu/" />
 		<outline type="rss" text="" title="" xmlUrl="https://northmarket.org/events/feed/" htmlUrl="https://northmarket.org/" />
 		<outline type="rss" text="" title="" xmlUrl="https://northmarket.org/feed" htmlUrl="https://northmarket.org/" />
+		<outline type="rss" text="" title="" xmlUrl="https://obetz.oh.us/rss" htmlUrl="https://obetz.oh.us/" />
 		<outline type="rss" text="Obetz Zucchinifest" title="Obetz Zucchinifest" xmlUrl="https://obetzzucchinifest.com/feed/" htmlUrl="https://obetzzucchinifest.com/" />
 		<outline type="rss" text="" title="" xmlUrl="https://ohiocaverns.com/feed/" htmlUrl="https://ohiocaverns.com/" />
 		<outline type="rss" text="" title="" xmlUrl="https://ohiocraft.org/feed/" htmlUrl="https://ohiocraft.org/" />
