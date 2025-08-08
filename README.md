@@ -3,9 +3,9 @@ A (WIP) collection of central (and beyond) Ohio sites, feeds, calendars, and blo
 
 # Totals
 
-247 sites
+275 sites
 
-704 feeds (rss/atom)
+726 feeds (rss/atom)
 
 39 calendars (ical/ics)
 
