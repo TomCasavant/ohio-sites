@@ -598,6 +598,7 @@
 		<outline type="rss" text="Grove City, OH - Alert Center" title="Grove City, OH - Alert Center" xmlUrl="https://www.grovecityohio.gov/RSSFeed.aspx?ModID=63&amp;CID=All-0" htmlUrl="https://www.grovecityohio.gov/" />
 		<outline type="rss" text="Grove City, OH - Agenda Creator" title="Grove City, OH - Agenda Creator" xmlUrl="https://www.grovecityohio.gov/RSSFeed.aspx?ModID=65&amp;CID=All-0" htmlUrl="https://www.grovecityohio.gov/" />
 		<outline type="rss" text="Grove City, OH - Pages" title="Grove City, OH - Pages" xmlUrl="https://www.grovecityohio.gov/RSSFeed.aspx?ModID=76&amp;CID=All-0" htmlUrl="https://www.grovecityohio.gov/" />
+		<outline type="rss" text="Heart of Grove City Ohio" title="Heart of Grove City Ohio" xmlUrl="https://www.heartofgrovecity.org/feed/" htmlUrl="https://www.heartofgrovecity.org/" />
 		<outline type="atom" text="Historic Columbus" title="Historic Columbus" xmlUrl="https://www.historiccolumbus.com/blog-feed.xml" htmlUrl="https://www.historiccolumbus.com/" />
 		<outline type="rss" text="Jazz &amp; Rib Fest" title="Jazz &amp; Rib Fest" xmlUrl="https://www.hotribscooljazz.org/rss" htmlUrl="https://www.hotribscooljazz.org/" />
 		<outline type="rss" text="The Lincoln" title="The Lincoln" xmlUrl="https://www.lincolntheatrecolumbus.com/feed/" htmlUrl="https://www.lincolntheatrecolumbus.com/" />
