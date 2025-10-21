@@ -9,5 +9,6 @@
 		<outline type="atom" text="" title="" xmlUrl="https://urbanohio.com/rss/1-urbanohio-rss-feed.xml/" htmlUrl="https://urbanohio.com/" />
 		<outline type="rss" text="" title="" xmlUrl="https://www.ohiohistory.org/rss" htmlUrl="https://www.ohiohistory.org" />
 		<outline type="rss" text="Ohio Traveler" title="Ohio Traveler" xmlUrl="https://www.ohiotraveler.com/feed/" htmlUrl="https://www.ohiotraveler.com/" />
+		<outline type="rss" text="" title="" xmlUrl="https://renfestival.com/feed/" htmlUrl="" />
 	</body>
 </opml>
