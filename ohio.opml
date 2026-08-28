@@ -4,12 +4,39 @@
 		<title>Ohio Feeds</title>
 	</head>
 	<body>
+		<outline type="rss" text="" title="" xmlUrl="https://compassohio.com/comments/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://compassohio.com/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://discoverohiowines.com/comments/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://discoverohiowines.com/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="http://feeds.feedburner.com/OhioHistoryToday" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://myohiofun.com/comments/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://myohiofun.com/feed/" htmlUrl="" />
 		<outline type="rss" text="Ohio Coffee Trail" title="Ohio Coffee Trail" xmlUrl="https://ohiocoffeetrail.com/feed/" htmlUrl="" />
 		<outline type="rss" text="" title="" xmlUrl="https://ohiofestivals.net/feed/" htmlUrl="https://ohiofestivals.net/" />
 		<outline type="rss" text="" title="" xmlUrl="https://ohiofestivals.net/web-stories/feed/" htmlUrl="https://ohiofestivals.net/" />
+		<outline type="rss" text="" title="" xmlUrl="https://ohiogourdsociety.com/comments/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://ohiogourdsociety.com/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://ohioriverscenicbyway.org/?feed=comments-rss" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://ohioriverscenicbyway.org/?feed=rss" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://remarkableohio.org/comments/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://remarkableohio.org/feed/" htmlUrl="" />
 		<outline type="rss" text="" title="" xmlUrl="https://renfestival.com/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://signalohio.org/comments/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://signalohio.org/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://stranfest.com/comments/feed/" htmlUrl="" />
 		<outline type="atom" text="UrbanOhio RSS Feed" title="UrbanOhio RSS Feed" xmlUrl="https://urbanohio.com/rss/1-urbanohio-rss-feed.xml/" htmlUrl="https://urbanohio.com/" />
+		<outline type="rss" text="" title="" xmlUrl="https://visitohiotoday.com/comments/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://visitohiotoday.com/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://visitohiotoday.com/web-stories/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://www.oacvb.org/wp/comments/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://www.oacvb.org/wp/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://www.ofea.org/comments/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://www.ofea.org/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://www.ogs.org/comments/feed/" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="https://www.ogs.org/feed/" htmlUrl="" />
 		<outline type="rss" text="" title="" xmlUrl="https://www.ohiohistory.org/rss" htmlUrl="https://www.ohiohistory.org" />
 		<outline type="rss" text="Ohio Traveler" title="Ohio Traveler" xmlUrl="https://www.ohiotraveler.com/feed/" htmlUrl="https://www.ohiotraveler.com/" />
+		<outline type="rss" text="" title="" xmlUrl="https://www.supremecourt.ohio.gov/RSS/CNO/happening.aspx" htmlUrl="" />
+		<outline type="rss" text="" title="" xmlUrl="http://www.supremecourt.ohio.gov/rss/CNO/happening.xml" htmlUrl="" />
 	</body>
 </opml>
