@@ -4,19 +4,19 @@ A (WIP) collection of central (and beyond) Ohio sites, feeds, calendars, and blo
 
 # Totals
 
-351 sites
+405 sites
 
-828 feeds (rss/atom)
+1259 feeds (rss/atom)
 
-54 calendars (ical/ics)
+108 calendars (ical/ics)
 
 13 ActivityPub accounts
 
-11 AtProto accounts
+10 AtProto accounts
 
 ---
 
-1257 Total
+1795 Total
 
 ## Add new site
 Just send it to me and I can add it in
